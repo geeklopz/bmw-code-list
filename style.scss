@@ -1,0 +1,92 @@
+// mixin
+%text {
+	font-size: 0.9rem;
+	line-height: 1.7em;
+}
+
+%titles {
+	margin-top: 0;
+	text-transform: uppercase;
+}
+
+body {
+	margin: 0;
+	height: 100vh;
+	font-family: "Montserrat";
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.container {
+	height: 100vh;
+
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+	grid-template-rows: 3fr 0.5fr;
+	grid-template-areas:
+		"posts main"
+		"posts footer";
+}
+
+section {
+	@extend %text;
+	padding: 2em;
+	//overflow-y: scroll;
+
+	h1 {
+		@extend %titles;
+		color: #009ADA;
+	}
+}
+
+.card {
+	@extend %text;
+
+	display: flex;
+
+	padding: 2em;
+	margin-right: 0.5em;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.09);
+
+	h3 {
+		font-size: 2rem;
+		margin-right: 20px;
+	}
+}
+
+aside {
+	grid-area: posts;
+	background: #009ADA;
+	padding: 2em;
+	color: #fff;
+
+	h3 {
+		@extend %titles;
+	}
+
+	li {
+		@extend %text;
+
+		a {
+			text-decoration: none;
+			padding: 1rem;
+			margin: 1rem 0;
+			background: #fff;
+			border-radius: 5px;
+			box-shadow: 10px 10px 20px rgba(255, 255, 255, 0.05);
+			color: #999;
+			font-weight: 500;
+			display: block;
+		}
+	}
+}
+
+footer {
+	@extend %text;
+	text-align: center;
+	grid-area: footer;
+	padding: 1em;
+}

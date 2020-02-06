@@ -1,0 +1,24 @@
+{
+  "name": "bmw-code-list",
+  "version": "1.0.0",
+  "description": "BMW's and MINI Code List for faults and warnings",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass style.scss style.css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeklopz/bmw-code-list.git"
+  },
+  "keywords": [],
+  "author": "Danilo Caetano <danilocaetano.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeklopz/bmw-code-list/issues"
+  },
+  "homepage": "https://github.com/geeklopz/bmw-code-list#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}

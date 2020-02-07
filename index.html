@@ -11,40 +11,32 @@
 
 	<div class="container">
 
+		<header>
+			<h3>BMW Codes</h3>
+			<p>BMW / MINI Codes for Fault and Warning</p>
+			<input type="text" name="search" id="search" placeholder="CC-ID (Only numbers)">
+		</header>
+
 		<section>
 			<h1>Code List</h1>
-			<p>BMW / MINI Codes for Fault and Warning</p>
-			<div class="card-container">
-				<div class="card">
-					<h3>1</h3>
-					<p>Active Cruise Control Disabled, Poor Conditions</p>
-					<p>Cruise Control ativo desativado, más condições</p>
-				</div>
-				<div class="card">
-					<h3>68</h3>
-					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas earum ut autem nobis fuga ab hic natus quo recusandae exercitationem mollitia tempora, odio quasi illum praesentium rerum optio? Impedit, similique?</p>
-				</div>
-				<div class="card">
-					<h3>999</h3>
-					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas earum ut autem nobis fuga ab hic natus quo recusandae exercitationem mollitia tempora, odio quasi illum praesentium rerum optio? Impedit, similique?</p>
-				</div>
-			</div>
+			<div id="card-container" class="card-container"></div>
 		</section>
 
-		<aside>
+<!-- 		<aside>
 			<h3>BMW Codes</h3>
+			<input type="text" name="search" id="search" placeholder="Only numbers">
 			<ul>
 				<li>
 					<a href="#">CC-ID</a>
 				</li>
 			</ul>
-		</aside>
+		</aside> -->
 
 		<footer>
 			<p>Danilo Caetano - 2020</p>
 		</footer>
 
 	</div>
-
+	<script src="api.js"></script>
 </body>
 </html>

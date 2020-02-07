@@ -1,2416 +1,2414 @@
-{
-	"codes": [
-			{
-					"codenumber": "1",
-					"description": "Active Cruise Control Disabled, poor Conditions",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, más condições",
-					"category": "none"
-			},
-			{
-					"codenumber": "2",
-					"description": "Active Cruise Control Disabled, poor Signal",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, sinal fraco",
-					"category": "none"
-			},
-			{
-					"codenumber": "3",
-					"description": "Active Cruise Control Failure",
-					"translate": "Ativo Falha Cruise Control",
-					"category": "none"
-			},
-			{
-					"codenumber": "4",
-					"description": "Trailer Parking Light Left",
-					"translate": "Trailer Estacionamento Luz Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "5",
-					"description": "Trailer Parking Light Right",
-					"translate": "Trailer Estacionamento claro direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "6",
-					"description": "Trailer Indicator Left",
-					"translate": "Trailer Indicador de Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "7",
-					"description": "Trailer Indicator Right",
-					"translate": "Trailer Indicador direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "8",
-					"description": "Trailer Brake lights",
-					"translate": "Luzes de freio do reboque",
-					"category": "none"
-			},
-			{
-					"codenumber": "9",
-					"description": "Trailer Fog light",
-					"translate": "Trailer do farol de nevoeiro",
-					"category": "none"
-			},
-			{
-					"codenumber": "10",
-					"description": "ARS Roll Malfunction",
-					"translate": "ARS rolo Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "11",
-					"description": "Steering Malfunction",
-					"translate": "Mau funcionamento da direcção",
-					"category": "none"
-			},
-			{
-					"codenumber": "12",
-					"description": "Dynamic Drive Failed",
-					"translate": "Dynamic Drive Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "13",
-					"description": "Radio Key in Lock",
-					"translate": "Rádio chave na fechadura",
-					"category": "none"
-			},
-			{
-					"codenumber": "14",
-					"description": "Door Open Front Right",
-					"translate": "Abra a porta frontal direita",
-					"category": "none"
-			},
-			{
-					"codenumber": "15",
-					"description": "Door Open Front Left",
-					"translate": "Abra a porta da Frente de Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "16",
-					"description": "Door Open Rear Left",
-					"translate": "Abra a porta traseira esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "17",
-					"description": "Door Open Rear Right",
-					"translate": "Abra a porta traseira direita",
-					"category": "none"
-			},
-			{
-					"codenumber": "18",
-					"description": "Bonnet open",
-					"translate": "Bonnet aberta",
-					"category": "none"
-			},
-			{
-					"codenumber": "19",
-					"description": "Boot open",
-					"translate": "aberto bota",
-					"category": "none"
-			},
-			{
-					"codenumber": "21",
-					"description": "Ignition Problem, Depress Brake to Start",
-					"translate": "Ignition problema, pressione freio para começar",
-					"category": "none"
-			},
-			{
-					"codenumber": "22",
-					"description": "Starter Problem, Engine cannot Restart",
-					"translate": "Arranque Problema, Motor não pode reiniciar",
-					"category": "none"
-			},
-			{
-					"codenumber": "24",
-					"description": "DBC Dynamic Brake Control Brake Assist Failed",
-					"translate": "DBC Dinâmico de Freio Brake Control Assist Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "25",
-					"description": "Preheating, Please Wait",
-					"translate": "O pré-aquecimento, Aguarde",
-					"category": "none"
-			},
-			{
-					"codenumber": "26",
-					"description": "Cruise Control Defective",
-					"translate": "Cruise Control Defective",
-					"category": "none"
-			},
-			{
-					"codenumber": "27",
-					"description": "Engine Oil Level Low",
-					"translate": "Motor de baixo nível de óleo",
-					"category": "none"
-			},
-			{
-					"codenumber": "28",
-					"description": "Engine Oil Level Below Minimum",
-					"translate": "Motor nível de óleo abaixo do mínimo",
-					"category": "none"
-			},
-			{
-					"codenumber": "29",
-					"description": "Engine Problem, Power Reduced",
-					"translate": "Motor Problema, potência reduzida",
-					"category": "none"
-			},
-			{
-					"codenumber": "30",
-					"description": "Engine Problem, Stop Engine",
-					"translate": "Motor problema, pare motor",
-					"category": "none"
-			},
-			{
-					"codenumber": "31",
-					"description": "Engine Problem, Increased Emissions",
-					"translate": "Motor Problema, as emissões aumentaram",
-					"category": "none"
-			},
-			{
-					"codenumber": "32",
-					"description": "Fuel Cap Open",
-					"translate": "Fuel Cap Abrir",
-					"category": "none"
-			},
-			{
-					"codenumber": "33",
-					"description": "Engine Problem, Reduce Engine Load",
-					"translate": "Motor problema, reduza motor de Carga",
-					"category": "none"
-			},
-			{
-					"codenumber": "35",
-					"description": "DSC Failed",
-					"translate": "DSC Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "36",
-					"description": "DSC/DTC Deactivated",
-					"translate": "DSC / DTC Desactivado",
-					"category": "none"
-			},
-			{
-					"codenumber": "38",
-					"description": "Wrong Remote Key",
-					"translate": "Key remoto errado",
-					"category": "none"
-			},
-			{
-					"codenumber": "39",
-					"description": "Engine Overheat, Stop Engine",
-					"translate": "Superaquecimento do motor, desligue o motor",
-					"category": "none"
-			},
-			{
-					"codenumber": "40",
-					"description": "Press Brake to Start",
-					"translate": "Press Brake para começar",
-					"category": "none"
-			},
-			{
-					"codenumber": "41",
-					"description": "Service Due",
-					"translate": "serviço Devido",
-					"category": "none"
-			},
-			{
-					"codenumber": "42",
-					"description": "Brake and Driving Control Failure",
-					"translate": "A falha dos travões e condução de Controle",
-					"category": "none"
-			},
-			{
-					"codenumber": "42",
-					"description": "DSC Control System/Ride Height adjustment",
-					"translate": "DSC Sistema de Controlo de / ajuste de altura de passeio",
-					"category": "none"
-			},
-			{
-					"codenumber": "43",
-					"description": "Dynamic Damper Control Failed",
-					"translate": "Falha Controle de Abafador Dinâmico",
-					"category": "none"
-			},
-			{
-					"codenumber": "45",
-					"description": "Level Control System Failure",
-					"translate": "Falha do sistema de controle de nível",
-					"category": "none"
-			},
-			{
-					"codenumber": "46",
-					"description": "Fasten Seat Belt",
-					"translate": "Aperte seu cinto de segurança",
-					"category": "none"
-			},
-			{
-					"codenumber": "48",
-					"description": "Parking Brake",
-					"translate": "Travão de mão",
-					"category": "none"
-			},
-			{
-					"codenumber": "49",
-					"description": "Particulate Filter Malfunction",
-					"translate": "Avaria filtro de partículas",
-					"category": "none"
-			},
-			{
-					"codenumber": "50",
-					"description": "Tyre Monitoring Failure",
-					"translate": "Falha do pneu Monitoramento",
-					"category": "none"
-			},
-			{
-					"codenumber": "50",
-					"description": "Runflat Indicator Failed",
-					"translate": "Indicador Runflat Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "51",
-					"description": "Parking Brake Overheated",
-					"translate": "Freio de Estacionamento superaquecido",
-					"category": "none"
-			},
-			{
-					"codenumber": "52",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "53",
-					"description": "Automatic Hold Malfunction",
-					"translate": "Avaria de Espera automática",
-					"category": "none"
-			},
-			{
-					"codenumber": "54",
-					"description": "Parking Brake Malfunction",
-					"translate": "Freio de Estacionamento Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "55",
-					"description": "Parking Brake Release",
-					"translate": "Freio de Estacionamento lançamento",
-					"category": "none"
-			},
-			{
-					"codenumber": "55",
-					"description": "Parking Brake Active",
-					"translate": "Estacionamento Active Brake",
-					"category": "none"
-			},
-			{
-					"codenumber": "56",
-					"description": "Parking Brake",
-					"translate": "Travão de mão",
-					"category": "none"
-			},
-			{
-					"codenumber": "57",
-					"description": "Parking Brake",
-					"translate": "Travão de mão",
-					"category": "none"
-			},
-			{
-					"codenumber": "58",
-					"description": "Parking Brake",
-					"translate": "Travão de mão",
-					"category": "none"
-			},
-			{
-					"codenumber": "59",
-					"description": "Active Cruise Control Disabled, Parking Brake",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, freio de estacionamento",
-					"category": "none"
-			},
-			{
-					"codenumber": "60",
-					"description": "Speedometer Failure",
-					"translate": "velocímetro Failure",
-					"category": "none"
-			},
-			{
-					"codenumber": "62",
-					"description": "Vehicle Speed Limit Exceeded",
-					"translate": "Limite de velocidade do veículo excedida",
-					"category": "none"
-			},
-			{
-					"codenumber": "63",
-					"description": "Tyre Failure",
-					"translate": "falha do pneu",
-					"category": "none"
-			},
-			{
-					"codenumber": "63",
-					"description": "Tyre Puncture",
-					"translate": "Furo de pneu",
-					"category": "none"
-			},
-			{
-					"codenumber": "65",
-					"description": "Change Key, Key Battery Low",
-					"translate": "Mudança Key, Key bateria fraca",
-					"category": "none"
-			},
-			{
-					"codenumber": "66",
-					"description": "Remote Control/Key Fault",
-					"translate": "Key falha Remote Control /",
-					"category": "none"
-			},
-			{
-					"codenumber": "67",
-					"description": "Remote Control/Key Battery Discharged",
-					"translate": "Remote Control / Key bateria descarregada",
-					"category": "none"
-			},
-			{
-					"codenumber": "68",
-					"description": "Remote Key Stationary Function Battery Low",
-					"translate": "Remoto Tecla Função Stationary Low Battery",
-					"category": "none"
-			},
-			{
-					"codenumber": "69",
-					"description": "Active Cruise Control Disabled, Speed too Low",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, velocidade muito baixa",
-					"category": "none"
-			},
-			{
-					"codenumber": "70",
-					"description": "Servotronic Failed",
-					"translate": "Servotronic Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "71",
-					"description": "Brake Pads Worn",
-					"translate": "Pastilhas de freio desgastadas",
-					"category": "none"
-			},
-			{
-					"codenumber": "73",
-					"description": "EPS Inoperative",
-					"translate": "EPS Inoperative",
-					"category": "none"
-			},
-			{
-					"codenumber": "74",
-					"description": "Brake Fluid Low",
-					"translate": "Brake Low Fluid",
-					"category": "none"
-			},
-			{
-					"codenumber": "75",
-					"description": "Trailer Electrics Failed",
-					"translate": "Electrics reboque Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "76",
-					"description": "Crash Safety Module",
-					"translate": "Módulo de Segurança Bater",
-					"category": "none"
-			},
-			{
-					"codenumber": "78",
-					"description": "Vehicle Speed Limit Exceeded",
-					"translate": "Limite de velocidade do veículo excedida",
-					"category": "none"
-			},
-			{
-					"codenumber": "79",
-					"description": "Low External Temperature",
-					"translate": "Temperatura baixa External",
-					"category": "none"
-			},
-			{
-					"codenumber": "85",
-					"description": "Active Cruise Control Disabled, Hill Descent",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Hill Descent",
-					"category": "none"
-			},
-			{
-					"codenumber": "87",
-					"description": "Right Rear Light Failure",
-					"translate": "Falha direito Luz traseira",
-					"category": "none"
-			},
-			{
-					"codenumber": "88",
-					"description": "Dipped Beam Left Failure",
-					"translate": "Falha Feixe Esquerda mergulhado",
-					"category": "none"
-			},
-			{
-					"codenumber": "89",
-					"description": "Dipped Beam Right Failure",
-					"translate": "Mergulhado Falha Feixe direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "90",
-					"description": "Trailer Reverse Light",
-					"translate": "Trailer Luz reverso",
-					"category": "none"
-			},
-			{
-					"codenumber": "91",
-					"description": "Fasten Seat Belt",
-					"translate": "Aperte seu cinto de segurança",
-					"category": "none"
-			},
-			{
-					"codenumber": "92",
-					"description": "Front Passenger Seat Belt Pretensioner Fault",
-					"translate": "Banco do passageiro dianteiro Belt pretensioner Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "93",
-					"description": "Driver’s Seat Belt Pretensioner Fault",
-					"translate": "Assento do Motorista Belt pretensioner Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "94",
-					"description": "Rear Left Seat Belt Pretensioner Fault",
-					"translate": "Assento traseiro esquerdo Belt pretensioner Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "95",
-					"description": "Rear Right Seat Belt Pretensioner Fault",
-					"translate": "Assento traseiro direito Belt pretensioner Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "97",
-					"description": "Multiple Restraint System Fault",
-					"translate": "Multiple Sistema de Restrição Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "103",
-					"description": "Gearbox Overheating",
-					"translate": "Gearbox superaquecimento",
-					"category": "none"
-			},
-			{
-					"codenumber": "104",
-					"description": "Gearbox Overheating",
-					"translate": "Gearbox superaquecimento",
-					"category": "none"
-			},
-			{
-					"codenumber": "105",
-					"description": "Gearbox Overheated",
-					"translate": "Gearbox superaquecido",
-					"category": "none"
-			},
-			{
-					"codenumber": "106",
-					"description": "Rear Left Side Airbag Fault",
-					"translate": "Traseira do lado esquerdo Airbag Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "107",
-					"description": "Rear Right Side Airbag Fault",
-					"translate": "Traseira Lado direito Airbag Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "108",
-					"description": "Driver’s Airbag Fault",
-					"translate": "Airbag falha do motorista",
-					"category": "none"
-			},
-			{
-					"codenumber": "109",
-					"description": "Passenger Airbag Fault",
-					"translate": "Airbag do passageiro falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "111",
-					"description": "Number Plate Light Left Failure",
-					"translate": "Matrícula falha Luz Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "113",
-					"description": "Sidelights Switched On",
-					"translate": "Sidelights Switched On",
-					"category": "none"
-			},
-			{
-					"codenumber": "114",
-					"description": "Rear Fog Light Failure",
-					"translate": "Falha traseira nevoeiro",
-					"category": "none"
-			},
-			{
-					"codenumber": "115",
-					"description": "Reverse Light Right Failure",
-					"translate": "A falha inversa claro direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "116",
-					"description": "Indicator Rear Left Failure",
-					"translate": "Falha indicador Traseira esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "117",
-					"description": "Reverse Light Left Failure",
-					"translate": "A falha inversa Luz Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "118",
-					"description": "Rear Light Right Failure",
-					"translate": "Falha Luz traseira direita",
-					"category": "none"
-			},
-			{
-					"codenumber": "119",
-					"description": "Indicator Front Right Failure",
-					"translate": "Falha Indicador Frontal Direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "120",
-					"description": "Dipped Beam Left Failure",
-					"translate": "Falha Feixe Esquerda mergulhado",
-					"category": "none"
-			},
-			{
-					"codenumber": "121",
-					"description": "Dipped Beam Right Failure",
-					"translate": "Mergulhado Falha Feixe direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "122",
-					"description": "Indicator Front Right Failure",
-					"translate": "Falha Indicador Frontal Direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "123",
-					"description": "Rear Light Right Failure",
-					"translate": "Falha Luz traseira direita",
-					"category": "none"
-			},
-			{
-					"codenumber": "124",
-					"description": "Indicator Right Failure",
-					"translate": "Falha Indicador direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "125",
-					"description": "Indicator Rear Right Failure",
-					"translate": "Falha indicador Traseira Direita",
-					"category": "none"
-			},
-			{
-					"codenumber": "126",
-					"description": "Fog Light Right Failure",
-					"translate": "Falha nevoeiro direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "127",
-					"description": "Side Indicator Left Failure",
-					"translate": "Falha lado Indicador de Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "128",
-					"description": "Left High Beam Failure",
-					"translate": "Esquerda High Beam Failure",
-					"category": "none"
-			},
-			{
-					"codenumber": "129",
-					"description": "Rear Fog Light Failure",
-					"translate": "Falha traseira nevoeiro",
-					"category": "none"
-			},
-			{
-					"codenumber": "130",
-					"description": "Right High Beam Failure",
-					"translate": "Direito High Beam Failure",
-					"category": "none"
-			},
-			{
-					"codenumber": "131",
-					"description": "Parking Light Left Front Failure",
-					"translate": "Estacionamento Failure Frente de Esquerda Luz",
-					"category": "none"
-			},
-			{
-					"codenumber": "132",
-					"description": "Front Right Side Light Failure",
-					"translate": "Falha dianteira direita Luz Side",
-					"category": "none"
-			},
-			{
-					"codenumber": "133",
-					"description": "Right Rear Light Failure",
-					"translate": "Falha direito Luz traseira",
-					"category": "none"
-			},
-			{
-					"codenumber": "134",
-					"description": "Right Brake Light Failure",
-					"translate": "Falha direito luz de freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "135",
-					"description": "Centre Brake Light Failure",
-					"translate": "Falha Centro de luz de freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "136",
-					"description": "Left Brake Light Failure",
-					"translate": "Falha esquerda luz de freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "137",
-					"description": "Number Plate Light Right Failure",
-					"translate": "Matrícula falha claro direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "138",
-					"description": "Fog Light Left Failure",
-					"translate": "Falha nevoeiro Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "139",
-					"description": "Front Left Tyre Pressure",
-					"translate": "Pressão Frente de Esquerda Tire",
-					"category": "none"
-			},
-			{
-					"codenumber": "140",
-					"description": "Rear Right Tyre Pressure",
-					"translate": "Pressão traseira direita do pneu",
-					"category": "none"
-			},
-			{
-					"codenumber": "141",
-					"description": "Rear Left Tyre Pressure",
-					"translate": "Pressão traseira esquerda do pneu",
-					"category": "none"
-			},
-			{
-					"codenumber": "142",
-					"description": "Check Tyre Pressures",
-					"translate": "Verifique a pressão dos pneus",
-					"category": "none"
-			},
-			{
-					"codenumber": "143",
-					"description": "Front Right Tyre Pressure",
-					"translate": "Pressão dianteira direita do pneu",
-					"category": "none"
-			},
-			{
-					"codenumber": "144",
-					"description": "Tyre Pressure Monitoring Fault",
-					"translate": "Tire Pressure Monitoring Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "145",
-					"description": "Tyre Pressure Monitoring Deactivated",
-					"translate": "Tire Pressure Monitoring Desactivado",
-					"category": "none"
-			},
-			{
-					"codenumber": "147",
-					"description": "Tyre Puncture Detected",
-					"translate": "Tire Puncture Detectado",
-					"category": "none"
-			},
-			{
-					"codenumber": "148",
-					"description": "Brake Light Control Failed",
-					"translate": "Falha freio de controlo de luz",
-					"category": "none"
-			},
-			{
-					"codenumber": "149",
-					"description": "Tyre Pressure Monitoring Failure",
-					"translate": "Tire falha de Monitorização da Pressão",
-					"category": "none"
-			},
-			{
-					"codenumber": "158",
-					"description": "Active Cruise Control Disabled, Sensor Error",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Erro Sensor",
-					"category": "none"
-			},
-			{
-					"codenumber": "164",
-					"description": "Windscreen Washer Fluid Low",
-					"translate": "Pára-brisas Low Fluid",
-					"category": "none"
-			},
-			{
-					"codenumber": "165",
-					"description": "Low External Temperature",
-					"translate": "Temperatura baixa External",
-					"category": "none"
-			},
-			{
-					"codenumber": "166",
-					"description": "Engine Coolant Level Low",
-					"translate": "Motor nível do fluido refrigerante Baixo",
-					"category": "none"
-			},
-			{
-					"codenumber": "167",
-					"description": "Reset Clock",
-					"translate": "Relógio de reset",
-					"category": "none"
-			},
-			{
-					"codenumber": "168",
-					"description": "Transmission Malfunction",
-					"translate": "transmissão Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "169",
-					"description": "Transmission Position N",
-					"translate": "Posicione a transmissão de N",
-					"category": "none"
-			},
-			{
-					"codenumber": "170",
-					"description": "Transmission Malfunction Reset",
-					"translate": "Transmissão Avaria reset",
-					"category": "none"
-			},
-			{
-					"codenumber": "171",
-					"description": "Transmission Failsafe Active",
-					"translate": "Transmissão à prova de falhas ativas",
-					"category": "none"
-			},
-			{
-					"codenumber": "172",
-					"description": "Transmission Malfunction",
-					"translate": "transmissão Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "173",
-					"description": "Transmission Position D Only",
-					"translate": "Apenas transmissão posição D",
-					"category": "none"
-			},
-			{
-					"codenumber": "174",
-					"description": "Transmission Position P Only",
-					"translate": "Apenas transmissão posição P",
-					"category": "none"
-			},
-			{
-					"codenumber": "175",
-					"description": "Transmission Malfunction, Position P",
-					"translate": "Transmissão Avaria, posição P",
-					"category": "none"
-			},
-			{
-					"codenumber": "176",
-					"description": "Active Cruise Control Disabled, Sensor Error",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Erro Sensor",
-					"category": "none"
-			},
-			{
-					"codenumber": "177",
-					"description": "Active Cruise Control Malfunction",
-					"translate": "Active Control Avaria Cruise",
-					"category": "none"
-			},
-			{
-					"codenumber": "178",
-					"description": "Transmission in Neutral, Engage Parking Brake",
-					"translate": "Transmissão em ponto morto, engate do freio de estacionamento",
-					"category": "none"
-			},
-			{
-					"codenumber": "179",
-					"description": "Transmission Malfunction",
-					"translate": "transmissão Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "180",
-					"description": "Dynamic Damper Control Fault",
-					"translate": "Dinâmica Damper Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "181",
-					"description": "System Check Failed",
-					"translate": "Verificação do Sistema Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "182",
-					"description": "Oil Level Sensor Malfunction",
-					"translate": "Óleo Sensor Nível Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "183",
-					"description": "Windscreen Wiper Malfunction",
-					"translate": "Limpa Pára-brisas Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "184",
-					"description": "Dynamic Traction Control Active",
-					"translate": "Controle Dinâmico de Tração Ativo",
-					"category": "none"
-			},
-			{
-					"codenumber": "185",
-					"description": "Gear Indicator Failed",
-					"translate": "Engrenagem Indicador de Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "186",
-					"description": "ELV Steering Lock Fault. Engine cannot be restarted",
-					"translate": "ELV bloqueio da direcção Fault. O motor não pode ser reiniciado",
-					"category": "none"
-			},
-			{
-					"codenumber": "187",
-					"description": "ELV Steering Lock Active. Move Steering Wheel to Restart",
-					"translate": "ELV bloqueio da direcção activa. Mova Volante para reiniciar",
-					"category": "none"
-			},
-			{
-					"codenumber": "192",
-					"description": "Tyre Pressure Monitoring Deactivated, System Initialising",
-					"translate": "Tire Pressure Monitoring Desactivado, Sistema Inicializando",
-					"category": "none"
-			},
-			{
-					"codenumber": "195",
-					"description": "Park Distance Control Failure",
-					"translate": "Falha Park Distance Control",
-					"category": "none"
-			},
-			{
-					"codenumber": "196",
-					"description": "Indicator Front Right Failure",
-					"translate": "Falha Indicador Frontal Direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "197",
-					"description": "Indicator Front Left Failure",
-					"translate": "Falha indicador Frente de Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "199",
-					"description": "Cruise Control Failed",
-					"translate": "Falha Cruise Control",
-					"category": "none"
-			},
-			{
-					"codenumber": "201",
-					"description": "Automatic Hold Disabled",
-					"translate": "Espera automática Disabled",
-					"category": "none"
-			},
-			{
-					"codenumber": "203",
-					"description": "Transmission Position in N",
-					"translate": "Posição transmissão em N",
-					"category": "none"
-			},
-			{
-					"codenumber": "204",
-					"description": "Dynamic Drive Disabled",
-					"translate": "Dynamic Drive pessoas com mobilidade condicionada",
-					"category": "none"
-			},
-			{
-					"codenumber": "205",
-					"description": "Remote Key not Present",
-					"translate": "Key remoto não Present",
-					"category": "none"
-			},
-			{
-					"codenumber": "206",
-					"description": "Engine Start on next Press",
-					"translate": "Ligue o motor na próxima Imprensa",
-					"category": "none"
-			},
-			{
-					"codenumber": "207",
-					"description": "Central Electronics Failure, Stop Vehicle",
-					"translate": "Central Eletrônica Fracasso, paragem do veículo",
-					"category": "none"
-			},
-			{
-					"codenumber": "208",
-					"description": "Comfort Access Deactivated",
-					"translate": "Comfort Acesso Desactivado",
-					"category": "none"
-			},
-			{
-					"codenumber": "209",
-					"description": "Remote Key in Vehicle, Locking not possible",
-					"translate": "Chave remota no veículo, Locking, não é possível",
-					"category": "none"
-			},
-			{
-					"codenumber": "210",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "211",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "212",
-					"description": "Engine Oil Pressure, Stop Engine",
-					"translate": "Pressão de óleo do motor, desligue o motor",
-					"category": "none"
-			},
-			{
-					"codenumber": "213",
-					"description": "Battery Not Charged",
-					"translate": "Bateria não carregada",
-					"category": "none"
-			},
-			{
-					"codenumber": "215",
-					"description": "Dynamic Stability Control",
-					"translate": "Controlo Dinâmico de Estabilidade",
-					"category": "none"
-			},
-			{
-					"codenumber": "216",
-					"description": "Fuel Pump Fault",
-					"translate": "Bomba de Combustível Fault",
-					"category": "none"
-			},
-			{
-					"codenumber": "217",
-					"description": "No Remote Control",
-					"translate": "Nenhuma Controlo Remoto",
-					"category": "none"
-			},
-			{
-					"codenumber": "220",
-					"description": "Battery Discharge Rate High",
-					"translate": "Descarga da bateria Taxa alta",
-					"category": "none"
-			},
-			{
-					"codenumber": "229",
-					"description": "Battery Charge Low",
-					"translate": "Carga da Bateria Baixa",
-					"category": "none"
-			},
-			{
-					"codenumber": "231",
-					"description": "Light System Failure",
-					"translate": "Falha do sistema de luz",
-					"category": "none"
-			},
-			{
-					"codenumber": "236",
-					"description": "Brake and Stability Systems Failure",
-					"translate": "A falha de freio e Estabilidade de Sistemas",
-					"category": "none"
-			},
-			{
-					"codenumber": "237",
-					"description": "Stability Systems Failure",
-					"translate": "Falha estabilidade Sistemas",
-					"category": "none"
-			},
-			{
-					"codenumber": "238",
-					"description": "Active Cruise Control Disabled, Hill Descent",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Hill Descent",
-					"category": "none"
-			},
-			{
-					"codenumber": "239",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "240",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "241",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "242",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "243",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "245",
-					"description": "Level Control System Failure",
-					"translate": "Falha do sistema de controle de nível",
-					"category": "none"
-			},
-			{
-					"codenumber": "246",
-					"description": "Active Cruise Control Disabled, Speed too Low",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, velocidade muito baixa",
-					"category": "none"
-			},
-			{
-					"codenumber": "247",
-					"description": "Battery Monitoring Failed",
-					"translate": "Bateria Monitorização Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "248",
-					"description": "Brake Signal Malfunction, Gears May Be Selected Without Brake",
-					"translate": "Brake Signal Avaria, Gears podem ser seleccionados sem freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "250",
-					"description": "Brake Signal Malfunction, Gears May Be Selected Without Brake",
-					"translate": "Brake Signal Avaria, Gears podem ser seleccionados sem freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "251",
-					"description": "Transmission Position P",
-					"translate": "Transmissão posição P",
-					"category": "none"
-			},
-			{
-					"codenumber": "252",
-					"description": "Transmission Malfunction",
-					"translate": "transmissão Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "253",
-					"description": "Parking Brake Failed",
-					"translate": "Freio de Estacionamento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "254",
-					"description": "Transmission Malfunction Emergency Program",
-					"translate": "Programa de Emergência Avaria transmissão",
-					"category": "none"
-			},
-			{
-					"codenumber": "255",
-					"description": "Malfunction R,N,D Only With Engine Running",
-					"translate": "Avaria R, N, D Apenas com o motor ligado",
-					"category": "none"
-			},
-			{
-					"codenumber": "256",
-					"description": "Headlight Leveling System Failure",
-					"translate": "Falha Farol Nivelamento Sistema",
-					"category": "none"
-			},
-			{
-					"codenumber": "257",
-					"description": "Engine Temperature Too High, Drive Moderately",
-					"translate": "Temperatura do motor muito alta, Drive Moderadamente",
-					"category": "none"
-			},
-			{
-					"codenumber": "259",
-					"description": "Window Anti",
-					"translate": "janela Anti",
-					"category": "none"
-			},
-			{
-					"codenumber": "260",
-					"description": "Sunroof Anti",
-					"translate": "teto solar Anti",
-					"category": "none"
-			},
-			{
-					"codenumber": "261",
-					"description": "Window Anti",
-					"translate": "janela Anti",
-					"category": "none"
-			},
-			{
-					"codenumber": "262",
-					"description": "Sunroof Anti",
-					"translate": "teto solar Anti",
-					"category": "none"
-			},
-			{
-					"codenumber": "265",
-					"description": "Check Tyre Pressures, Mismatch",
-					"translate": "Verifique a pressão dos pneus, Incompatibilidade",
-					"category": "none"
-			},
-			{
-					"codenumber": "266",
-					"description": "Rollover Protection Malfunction",
-					"translate": "Rollover Proteção Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "267",
-					"description": "Rear Window Drive",
-					"translate": "Janela Indiscreta unidade",
-					"category": "none"
-			},
-			{
-					"codenumber": "268",
-					"description": "Luggage Compartment Position",
-					"translate": "Bagageira Posição",
-					"category": "none"
-			},
-			{
-					"codenumber": "270",
-					"description": "Convertible Top Not Locked",
-					"translate": "Convertible Top não bloqueado",
-					"category": "none"
-			},
-			{
-					"codenumber": "271",
-					"description": "Convertible Top, Vehicle Speed",
-					"translate": "Convertible Top, velocidade do veículo",
-					"category": "none"
-			},
-			{
-					"codenumber": "272",
-					"description": "Convertible Top Failure",
-					"translate": "Falha Top Convertible",
-					"category": "none"
-			},
-			{
-					"codenumber": "273",
-					"description": "Active Steering Fault",
-					"translate": "Falha Active Steering",
-					"category": "none"
-			},
-			{
-					"codenumber": "275",
-					"description": "Low Fuel",
-					"translate": "baixo combustível",
-					"category": "none"
-			},
-			{
-					"codenumber": "276",
-					"description": "Engine Speed Too High",
-					"translate": "Velocidade do motor muito alto",
-					"category": "none"
-			},
-			{
-					"codenumber": "277",
-					"description": "Active Cruise Control Disabled, Gear Selection",
-					"translate": "Cruise Control Activo pessoas com mobilidade condicionada, engrenagem Seleção",
-					"category": "none"
-			},
-			{
-					"codenumber": "278",
-					"description": "Engine Speed Too Low",
-					"translate": "Velocidade do motor muito baixa",
-					"category": "none"
-			},
-			{
-					"codenumber": "279",
-					"description": "Driver’s Seat Insecure",
-					"translate": "Assento do Motorista Inseguro",
-					"category": "none"
-			},
-			{
-					"codenumber": "280",
-					"description": "Passenger’s Seat Insecure",
-					"translate": "Assento do passageiro Inseguro",
-					"category": "none"
-			},
-			{
-					"codenumber": "281",
-					"description": "Service Due",
-					"translate": "serviço Devido",
-					"category": "none"
-			},
-			{
-					"codenumber": "282",
-					"description": "Instrument Cluster",
-					"translate": "instrumento Cluster",
-					"category": "none"
-			},
-			{
-					"codenumber": "283",
-					"description": "Instrument Cluster",
-					"translate": "instrumento Cluster",
-					"category": "none"
-			},
-			{
-					"codenumber": "284",
-					"description": "Service Overdue",
-					"translate": "serviço Vencidos",
-					"category": "none"
-			},
-			{
-					"codenumber": "285",
-					"description": "Service OK",
-					"translate": "serviço OK",
-					"category": "none"
-			},
-			{
-					"codenumber": "286",
-					"description": "Fuel Low / Range",
-					"translate": "Combustível Baixo / Intervalo",
-					"category": "none"
-			},
-			{
-					"codenumber": "287",
-					"description": "Clutch Overheated",
-					"translate": "Clutch superaquecido",
-					"category": "none"
-			},
-			{
-					"codenumber": "288",
-					"description": "Transmission Malfunction, Failsafe Activated",
-					"translate": "Transmissão Avaria, à prova de falhas Activated",
-					"category": "none"
-			},
-			{
-					"codenumber": "289",
-					"description": "Transmission Malfunction, Failsafe Activated",
-					"translate": "Transmissão Avaria, à prova de falhas Activated",
-					"category": "none"
-			},
-			{
-					"codenumber": "290",
-					"description": "Transmission Malfunction, Journey May Be Continued With Care",
-					"translate": "Transmissão Avaria, Journey pode ser continuado com cuidado",
-					"category": "none"
-			},
-			{
-					"codenumber": "291",
-					"description": "Transmission Malfunction, Failsafe Activated",
-					"translate": "Transmissão Avaria, à prova de falhas Activated",
-					"category": "none"
-			},
-			{
-					"codenumber": "292",
-					"description": "Transmission Malfunction, Re",
-					"translate": "Transmissão Avaria, Re",
-					"category": "none"
-			},
-			{
-					"codenumber": "293",
-					"description": "Press Brake and Select Neutral to Start",
-					"translate": "Press Brake e Select Neutral para começar",
-					"category": "none"
-			},
-			{
-					"codenumber": "295",
-					"description": "Adaptive Cornering Lights Failure",
-					"translate": "Adaptive falha Luz de curva",
-					"category": "none"
-			},
-			{
-					"codenumber": "296",
-					"description": "SOS Deactivated, Check Phone",
-					"translate": "SOS Desactivado, Verificar telefone",
-					"category": "none"
-			},
-			{
-					"codenumber": "297",
-					"description": "BMW Assist Deactivated",
-					"translate": "BMW Assist Desactivado",
-					"category": "none"
-			},
-			{
-					"codenumber": "298",
-					"description": "BMW Assist Not Possible",
-					"translate": "BMW Assist Not Possible",
-					"category": "none"
-			},
-			{
-					"codenumber": "299",
-					"description": "SOS Call System Failure",
-					"translate": "Falha do sistema de chamada SOS",
-					"category": "none"
-			},
-			{
-					"codenumber": "300",
-					"description": "BMW Assist Deactivated, Check SIM.",
-					"translate": "BMW Assist Desactivado, Cheque SIM.",
-					"category": "none"
-			},
-			{
-					"codenumber": "301",
-					"description": "Seatback Monitoring Failed",
-					"translate": "Encosto Monitoramento Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "302",
-					"description": "Park Not Engaged",
-					"translate": "Park não Engaged",
-					"category": "none"
-			},
-			{
-					"codenumber": "303",
-					"description": "Depress Clutch to Start",
-					"translate": "Pressione embreagem para começar",
-					"category": "none"
-			},
-			{
-					"codenumber": "304",
-					"description": "Check Battery Condition",
-					"translate": "Verifique o estado da bateria",
-					"category": "none"
-			},
-			{
-					"codenumber": "305",
-					"description": "Check Battery Terminals",
-					"translate": "Verifique Terminais de bateria",
-					"category": "none"
-			},
-			{
-					"codenumber": "306",
-					"description": "Battery Charge Low",
-					"translate": "Carga da Bateria Baixa",
-					"category": "none"
-			},
-			{
-					"codenumber": "307",
-					"description": "Transmission Malfunction, Multiple Failures",
-					"translate": "Transmissão mau funcionamento, várias falhas",
-					"category": "none"
-			},
-			{
-					"codenumber": "308",
-					"description": "Parking Brake Applied",
-					"translate": "Freio de Estacionamento Aplicada",
-					"category": "none"
-			},
-			{
-					"codenumber": "309",
-					"description": "Fuel Pump Malfunction",
-					"translate": "Bomba de Combustível Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "321",
-					"description": "Active Steering Deactivated",
-					"translate": "Direção Ativa Desactivado",
-					"category": "none"
-			},
-			{
-					"codenumber": "322",
-					"description": "Transmission Teach",
-					"translate": "Teach transmissão",
-					"category": "none"
-			},
-			{
-					"codenumber": "323",
-					"description": "Clutch Teach",
-					"translate": "Clutch Teach",
-					"category": "none"
-			},
-			{
-					"codenumber": "325",
-					"description": "Transmission in Neutral",
-					"translate": "Transmissão em neutro",
-					"category": "none"
-			},
-			{
-					"codenumber": "326",
-					"description": "Transmission in Drive",
-					"translate": "Transmissão na unidade",
-					"category": "none"
-			},
-			{
-					"codenumber": "327",
-					"description": "Tyre Pressure Monitoring Deactivated, System Initialising",
-					"translate": "Tire Pressure Monitoring Desactivado, Sistema Inicializando",
-					"category": "none"
-			},
-			{
-					"codenumber": "328",
-					"description": "Brake Pad Wear Sensor",
-					"translate": "Brake Pad Sensor Wear",
-					"category": "none"
-			},
-			{
-					"codenumber": "330",
-					"description": "Hill Decent Control not Available",
-					"translate": "Colina decente controle não disponível",
-					"category": "none"
-			},
-			{
-					"codenumber": "331",
-					"description": "Hill Decent Control Active",
-					"translate": "Colina decente Controlo Activo",
-					"category": "none"
-			},
-			{
-					"codenumber": "332",
-					"description": "Hill Decent Control Deactivated",
-					"translate": "Digno colina Desactivado Controlo",
-					"category": "none"
-			},
-			{
-					"codenumber": "333",
-					"description": "Hill Decent Control not Possible",
-					"translate": "Colina decente de controle não é possível",
-					"category": "none"
-			},
-			{
-					"codenumber": "334",
-					"description": "Run Flat System Requires Standardisation",
-					"translate": "Run Flat sistema requer Standardization",
-					"category": "none"
-			},
-			{
-					"codenumber": "335",
-					"description": "Ignition Switched On",
-					"translate": "Ignição ligada",
-					"category": "none"
-			},
-			{
-					"codenumber": "336",
-					"description": "Dynamic Stability Control",
-					"translate": "Controlo Dinâmico de Estabilidade",
-					"category": "none"
-			},
-			{
-					"codenumber": "337",
-					"description": "Dynamic Cruise Control Failure",
-					"translate": "A falha dinâmica Cruise Control",
-					"category": "none"
-			},
-			{
-					"codenumber": "338",
-					"description": "Dynamic Cruise Control Deactivated, Parking Brake",
-					"translate": "Dinâmico Cruise Control Desactivado, freio de estacionamento",
-					"category": "none"
-			},
-			{
-					"codenumber": "339",
-					"description": "Dynamic Cruise Control Deactivated, Excessive Braking",
-					"translate": "Dinâmico Cruise Control Desactivado, frenagem excessiva",
-					"category": "none"
-			},
-			{
-					"codenumber": "340",
-					"description": "Dynamic Cruise Control Deactivated, Poor Conditions",
-					"translate": "Dinâmico Cruise Control desativado, más condições",
-					"category": "none"
-			},
-			{
-					"codenumber": "341",
-					"description": "Dynamic Cruise Control Deactivated, Gear Selection",
-					"translate": "Dinâmico Cruise Control Desactivado, engrenagem Seleção",
-					"category": "none"
-			},
-			{
-					"codenumber": "342",
-					"description": "Dynamic Cruise Control Deactivated, Speed Too Low",
-					"translate": "Dinâmico Cruise Control Desactivado, velocidade muito baixa",
-					"category": "none"
-			},
-			{
-					"codenumber": "345",
-					"description": "Brake/Tail Light Failure Right",
-					"translate": "Freio / cauda direita Failure Luz",
-					"category": "none"
-			},
-			{
-					"codenumber": "346",
-					"description": "Brake/Tail Light Failure Left",
-					"translate": "Freio / cauda falha Luz Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "347",
-					"description": "Position R/N/D Not Possible",
-					"translate": "Posição R / N / D Não Possível",
-					"category": "none"
-			},
-			{
-					"codenumber": "348",
-					"description": "Engage Park Before Leaving Vehicle",
-					"translate": "Envolver Parque Antes de sair do veículo",
-					"category": "none"
-			},
-			{
-					"codenumber": "349",
-					"description": "Engage Park Before Switching Ignition Off",
-					"translate": "Envolver Parque Antes de ligar a ignição desligada",
-					"category": "none"
-			},
-			{
-					"codenumber": "350",
-					"description": "4X4 System Failure",
-					"translate": "Falha 4X4 Sistema",
-					"category": "none"
-			},
-			{
-					"codenumber": "351",
-					"description": "4X4 and DSC Failure",
-					"translate": "4X4 e DSC Failure",
-					"category": "none"
-			},
-			{
-					"codenumber": "352",
-					"description": "Brakes Too Hot",
-					"translate": "Freios Too Hot",
-					"category": "none"
-			},
-			{
-					"codenumber": "353",
-					"description": "Brakes Overheated",
-					"translate": "freios superaquecido",
-					"category": "none"
-			},
-			{
-					"codenumber": "354",
-					"description": "Start Assist Inactive",
-					"translate": "Start Assist Inativo",
-					"category": "none"
-			},
-			{
-					"codenumber": "356",
-					"description": "Night Vision Failure",
-					"translate": "Night Vision Failure",
-					"category": "none"
-			},
-			{
-					"codenumber": "363",
-					"description": "Transmission Overload",
-					"translate": "transmissão Overload",
-					"category": "none"
-			},
-			{
-					"codenumber": "364",
-					"description": "RPA Initialisation",
-					"translate": "RPA Inicialização",
-					"category": "none"
-			},
-			{
-					"codenumber": "365",
-					"description": "Transmission Failsafe",
-					"translate": "transmissão à prova de falhas",
-					"category": "none"
-			},
-			{
-					"codenumber": "366",
-					"description": "Transmission Fault, Failsafe",
-					"translate": "Transmissão de falha, à prova de falhas",
-					"category": "none"
-			},
-			{
-					"codenumber": "367",
-					"description": "Engine Temperature Too High",
-					"translate": "Motor temperatura muito alta",
-					"category": "none"
-			},
-			{
-					"codenumber": "368",
-					"description": "Transmission Failsafe Active",
-					"translate": "Transmissão à prova de falhas ativas",
-					"category": "none"
-			},
-			{
-					"codenumber": "369",
-					"description": "4X4, DSC and ABS Failure",
-					"translate": "4X4, DSC e Insuficiência ABS",
-					"category": "none"
-			},
-			{
-					"codenumber": "370",
-					"description": "4X4, DSC, ABS and EBV Failure",
-					"translate": "4X4, DSC, ABS e EBV Failure",
-					"category": "none"
-			},
-			{
-					"codenumber": "371",
-					"description": "Number Plate Light Failure",
-					"translate": "Matrícula falha Luz",
-					"category": "none"
-			},
-			{
-					"codenumber": "372",
-					"description": "Brake Force Display Light Failure Left",
-					"translate": "Luz de travagem de falha Luz Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "373",
-					"description": "Brake Force Display Light Failure Right",
-					"translate": "Luz de travagem de Direito falha Luz",
-					"category": "none"
-			},
-			{
-					"codenumber": "374",
-					"description": "Main Beam Assist Defective",
-					"translate": "Principal Feixe Assist Defective",
-					"category": "none"
-			},
-			{
-					"codenumber": "375",
-					"description": "Main Beam Assist Not Active",
-					"translate": "Principal Feixe Assist Não Ativo",
-					"category": "none"
-			},
-			{
-					"codenumber": "376",
-					"description": "Main Beam Assist Not Active",
-					"translate": "Principal Feixe Assist Não Ativo",
-					"category": "none"
-			},
-			{
-					"codenumber": "377",
-					"description": "Main Beam Assist Sensativity",
-					"translate": "Principal Feixe Assist Sensativity",
-					"category": "none"
-			},
-			{
-					"codenumber": "378",
-					"description": "Sidelight/Daytime Lights Defective",
-					"translate": "Sidelight / Daytime luzes com defeito",
-					"category": "none"
-			},
-			{
-					"codenumber": "379",
-					"description": "Sidelight/Daytime Lights Defective",
-					"translate": "Sidelight / Daytime luzes com defeito",
-					"category": "none"
-			},
-			{
-					"codenumber": "380",
-					"description": "Turn Signal Lights Defective",
-					"translate": "Turno sinal luzes com defeito",
-					"category": "none"
-			},
-			{
-					"codenumber": "381",
-					"description": "Turn Signal Lights Defective",
-					"translate": "Turno sinal luzes com defeito",
-					"category": "none"
-			},
-			{
-					"codenumber": "382",
-					"description": "DSC Restricted, Brake Pressure Sensor",
-					"translate": "DSC Restrita, Brake Pressure Sensor",
-					"category": "none"
-			},
-			{
-					"codenumber": "384",
-					"description": "DSC Puncture Detected",
-					"translate": "DSC punção Detectado",
-					"category": "none"
-			},
-			{
-					"codenumber": "385",
-					"description": "Steering Assistance Failed",
-					"translate": "Assistência de direção Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "389",
-					"description": "Fasten Driver’s Seat Belt",
-					"translate": "Assento do Motorista aperte o cinto",
-					"category": "none"
-			},
-			{
-					"codenumber": "390",
-					"description": "Fasten Passenger’s Seat Belt",
-					"translate": "Banco do passageiro aperte o cinto",
-					"category": "none"
-			},
-			{
-					"codenumber": "391",
-					"description": "Multiple Restraint System",
-					"translate": "Sistema de Restrição múltipla",
-					"category": "none"
-			},
-			{
-					"codenumber": "392",
-					"description": "Fasten Seat Belt",
-					"translate": "Aperte seu cinto de segurança",
-					"category": "none"
-			},
-			{
-					"codenumber": "393",
-					"description": "Gear Selector Position",
-					"translate": "Engrenagem Selector de Posição",
-					"category": "none"
-			},
-			{
-					"codenumber": "394",
-					"description": "Gear Selector Lever",
-					"translate": "Engrenagem Selector Lever",
-					"category": "none"
-			},
-			{
-					"codenumber": "395",
-					"description": "Parking Brake Malfunction",
-					"translate": "Freio de Estacionamento Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "398",
-					"description": "Engine Bay Cover Open",
-					"translate": "Motor Bay Tampa aberta",
-					"category": "none"
-			},
-			{
-					"codenumber": "399",
-					"description": "SMG State Undetermined",
-					"translate": "SMG estado indeterminado",
-					"category": "none"
-			},
-			{
-					"codenumber": "400",
-					"description": "Engine Oil Level High",
-					"translate": "Óleo do motor de Alto Nível",
-					"category": "none"
-			},
-			{
-					"codenumber": "401",
-					"description": "Roof Mechanism Failure",
-					"translate": "Telhado Failure Mecanismo",
-					"category": "none"
-			},
-			{
-					"codenumber": "402",
-					"description": "Apply Foot Brake",
-					"translate": "Aplicar pé do freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "403",
-					"description": "Trailer Rear Light/Numberplate Light",
-					"translate": "Trailer Luz traseira / numberplate Luz",
-					"category": "none"
-			},
-			{
-					"codenumber": "404",
-					"description": "Trailer Left Indicator/Brake Light",
-					"translate": "Indicador de Esquerda Trailer / luz de freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "405",
-					"description": "Trailer Right Indicator/Brake Light",
-					"translate": "Indicador direito Trailer / luz de freio",
-					"category": "none"
-			},
-			{
-					"codenumber": "406",
-					"description": "Trailer Electric Brake Failed",
-					"translate": "Trailer elétrica do freio falhou",
-					"category": "none"
-			},
-			{
-					"codenumber": "410",
-					"description": "Parking Brake Malfunction",
-					"translate": "Freio de Estacionamento Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "413",
-					"description": "Steering Column Unlocked",
-					"translate": "Coluna de direção destravado",
-					"category": "none"
-			},
-			{
-					"codenumber": "415",
-					"description": "Battery Discharge Rate High",
-					"translate": "Descarga da bateria Taxa alta",
-					"category": "none"
-			},
-			{
-					"codenumber": "416",
-					"description": "Luggage Compartment Partition",
-					"translate": "Bagageira Partition",
-					"category": "none"
-			},
-			{
-					"codenumber": "419",
-					"description": "Drive Malfunction",
-					"translate": "unidade Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "420",
-					"description": "Transmission Malfunction",
-					"translate": "transmissão Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "422",
-					"description": "Luggage Compartment Lower Lid",
-					"translate": "Bagagem compartimento inferior Lid",
-					"category": "none"
-			},
-			{
-					"codenumber": "423",
-					"description": "Trailer Coupling Lock",
-					"translate": "Trailer de acoplamento de bloqueio",
-					"category": "none"
-			},
-			{
-					"codenumber": "424",
-					"description": "Reversing Camera Soiled",
-					"translate": "Invertendo Camera Soiled",
-					"category": "none"
-			},
-			{
-					"codenumber": "425",
-					"description": "Reversing Camera Failure",
-					"translate": "Invertendo Camera Failure",
-					"category": "none"
-			},
-			{
-					"codenumber": "427",
-					"description": "Engine Oil Pressure Low",
-					"translate": "Engine Oil Low Pressure",
-					"category": "none"
-			},
-			{
-					"codenumber": "428",
-					"description": "Side Camera Defective",
-					"translate": "Side câmera com defeito",
-					"category": "none"
-			},
-			{
-					"codenumber": "430",
-					"description": "Transport Mode Active",
-					"translate": "Modo de transporte ativo",
-					"category": "none"
-			},
-			{
-					"codenumber": "431",
-					"description": "Brake Loading Too High",
-					"translate": "Brake Carregando Too High",
-					"category": "none"
-			},
-			{
-					"codenumber": "432",
-					"description": "Roof Drive Overload",
-					"translate": "Telhado Unidade Overload",
-					"category": "none"
-			},
-			{
-					"codenumber": "434",
-					"description": "Seat Calibration Required",
-					"translate": "Assento de calibração necessário",
-					"category": "none"
-			},
-			{
-					"codenumber": "435",
-					"description": "Lane Departure Warning Fault",
-					"translate": "Pista de partida de aviso de falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "436",
-					"description": "Seat Position Detection Fault",
-					"translate": "Assento Posição Detecção de Falhas",
-					"category": "none"
-			},
-			{
-					"codenumber": "437",
-					"description": "Parking Lights On",
-					"translate": "Luzes de estacionamento no",
-					"category": "none"
-			},
-			{
-					"codenumber": "439",
-					"description": "Parking Brake Overload",
-					"translate": "Freio de Estacionamento Overload",
-					"category": "none"
-			},
-			{
-					"codenumber": "441",
-					"description": "Cruise Control Deactivated",
-					"translate": "Cruise Control Desactivado",
-					"category": "none"
-			},
-			{
-					"codenumber": "442",
-					"description": "Vehicle may Roll Away",
-					"translate": "Veículo pode rolar",
-					"category": "none"
-			},
-			{
-					"codenumber": "443",
-					"description": "Vehicle Rolling Away",
-					"translate": "Veículo que rola afastado",
-					"category": "none"
-			},
-			{
-					"codenumber": "445",
-					"description": "Vehicle Not Level",
-					"translate": "Veículo desnivelada",
-					"category": "none"
-			},
-			{
-					"codenumber": "446",
-					"description": "Launch Control",
-					"translate": "Controle de lançamento",
-					"category": "none"
-			},
-			{
-					"codenumber": "448",
-					"description": "Fuel Filter",
-					"translate": "Filtro de combustível",
-					"category": "none"
-			},
-			{
-					"codenumber": "449",
-					"description": "Trailer Coupling Electrics Failed",
-					"translate": "Trailer Coupling Electrics Falha",
-					"category": "none"
-			},
-			{
-					"codenumber": "450",
-					"description": "Automatic Start Deactivated",
-					"translate": "Automática Iniciar Desactivado",
-					"category": "none"
-			},
-			{
-					"codenumber": "452",
-					"description": "Release Autohold",
-					"translate": "Lançamento AutoHOLD",
-					"category": "none"
-			},
-			{
-					"codenumber": "453",
-					"description": "Cruise Control Short Range Sensors Disabled",
-					"translate": "Cruise Control Short Range Sensores pessoas com mobilidade condicionada",
-					"category": "none"
-			},
-			{
-					"codenumber": "454",
-					"description": "Cruise Control Short Range Sensors Soiled",
-					"translate": "Cruise Control Short Range Sensores Soiled",
-					"category": "none"
-			},
-			{
-					"codenumber": "465",
-					"description": "Parking Brake Failure",
-					"translate": "Estacionamento falha nos freios",
-					"category": "none"
-			},
-			{
-					"codenumber": "467",
-					"description": "Gear Selector Malfunction/Locking",
-					"translate": "Engrenagem Selector Avaria / Locking",
-					"category": "none"
-			},
-			{
-					"codenumber": "469",
-					"description": "Cruise Control Deactivated, Sensors Soiled",
-					"translate": "Cruise Control Desactivado, Sensores Soiled",
-					"category": "none"
-			},
-			{
-					"codenumber": "474",
-					"description": "Driving Performance Control Failed",
-					"translate": "Falha de condução Controle de Desempenho",
-					"category": "none"
-			},
-			{
-					"codenumber": "478",
-					"description": "Cruise Control Deactivated, Radio Astronomy Intervention",
-					"translate": "Cruise Control Desactivado, Radio Astronomy Intervenção",
-					"category": "none"
-			},
-			{
-					"codenumber": "480",
-					"description": "Parking Brake Malfunction",
-					"translate": "Freio de Estacionamento Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "481",
-					"description": "Parking Brake Malfunction",
-					"translate": "Freio de Estacionamento Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "482",
-					"description": "Parking Brake Failure",
-					"translate": "Estacionamento falha nos freios",
-					"category": "none"
-			},
-			{
-					"codenumber": "483",
-					"description": "Active Cruise Control Temporarily Disabled",
-					"translate": "Controle Ativo de Cruzeiro desativada temporariamente",
-					"category": "none"
-			},
-			{
-					"codenumber": "490",
-					"description": "Parking Assist Failure, Parking Assist Aborted",
-					"translate": "Estacionamento Assist Fracasso, Estacionamento Assist Aborted",
-					"category": "none"
-			},
-			{
-					"codenumber": "492",
-					"description": "AdBlue Reserve Low",
-					"translate": "AdBlue Reserve Baixo",
-					"category": "none"
-			},
-			{
-					"codenumber": "493",
-					"description": "AdBlue Reserve Critical",
-					"translate": "AdBlue Reserve Critical",
-					"category": "none"
-			},
-			{
-					"codenumber": "493",
-					"description": "AdBlue Reserve Empty",
-					"translate": "AdBlue Reserve vazio",
-					"category": "none"
-			},
-			{
-					"codenumber": "506",
-					"description": "AdBlue Fluid Incorrect",
-					"translate": "AdBlue Fluid incorreto",
-					"category": "none"
-			},
-			{
-					"codenumber": "516",
-					"description": "Roof Operation Cancelled",
-					"translate": "Telhado operação cancelada",
-					"category": "none"
-			},
-			{
-					"codenumber": "518",
-					"description": "Convertible Top Not Locked",
-					"translate": "Convertible Top não bloqueado",
-					"category": "none"
-			},
-			{
-					"codenumber": "519",
-					"description": "Roof Operation Not Possible",
-					"translate": "Telhado Operação impossível",
-					"category": "none"
-			},
-			{
-					"codenumber": "538",
-					"description": "Gearbox Malfunction",
-					"translate": "Gearbox Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "539",
-					"description": "Gearbox Malfunction 5",
-					"translate": "Gearbox Avaria 5",
-					"category": "none"
-			},
-			{
-					"codenumber": "540",
-					"description": "Gearbox Malfunction P",
-					"translate": "Caixa de velocidades de mau funcionamento P",
-					"category": "none"
-			},
-			{
-					"codenumber": "541",
-					"description": "Gearbox Malfunction Manually Release Parking Lock",
-					"translate": "Gearbox Avaria manualmente desbloqueio Estacionamento",
-					"category": "none"
-			},
-			{
-					"codenumber": "557",
-					"description": "Rolling Possible, Secure Vehicle",
-					"translate": "Rolando Possível, Veículo seguro",
-					"category": "none"
-			},
-			{
-					"codenumber": "558",
-					"description": "Roof Position Detection",
-					"translate": "Telhado detecção de posição",
-					"category": "none"
-			},
-			{
-					"codenumber": "559",
-					"description": "Roof Drive Overheated",
-					"translate": "Telhado Unidade superaquecido",
-					"category": "none"
-			},
-			{
-					"codenumber": "560",
-					"description": "Roof Operation Not Possible",
-					"translate": "Telhado Operação impossível",
-					"category": "none"
-			},
-			{
-					"codenumber": "561",
-					"description": "Roof Emergency Operation",
-					"translate": "Operação de Emergência Telhado",
-					"category": "none"
-			},
-			{
-					"codenumber": "562",
-					"description": "Roof Unlocked",
-					"translate": "telhado desbloqueado",
-					"category": "none"
-			},
-			{
-					"codenumber": "565",
-					"description": "Gearbox Position P only Available when Stationary",
-					"translate": "Gearbox Posição P só está disponível quando estacionária",
-					"category": "none"
-			},
-			{
-					"codenumber": "569",
-					"description": "Drive Malfunction, Stop",
-					"translate": "Unidade avaria, deixe de",
-					"category": "none"
-			},
-			{
-					"codenumber": "570",
-					"description": "Drive Range Low",
-					"translate": "Unidade Faixa Baixa",
-					"category": "none"
-			},
-			{
-					"codenumber": "571",
-					"description": "Drive, Only Forward Crawling Speed is Possible",
-					"translate": "Drive, só para a frente Crawling velocidade é Possível",
-					"category": "none"
-			},
-			{
-					"codenumber": "572",
-					"description": "Drive, Only Forward and Reverse Crawling Speed is Possible",
-					"translate": "Drive, só para a frente e Crawling reverso velocidade é Possível",
-					"category": "none"
-			},
-			{
-					"codenumber": "573",
-					"description": "Gearbox Malfunction",
-					"translate": "Gearbox Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "574",
-					"description": "No Braking Energy Reclamation",
-					"translate": "Sem energia de travagem Reclamation",
-					"category": "none"
-			},
-			{
-					"codenumber": "575",
-					"description": "Refueling",
-					"translate": "reabastecimento",
-					"category": "none"
-			},
-			{
-					"codenumber": "576",
-					"description": "Refueling Only Possible When Standing",
-					"translate": "Reabastecimento só é possível quando Standing",
-					"category": "none"
-			},
-			{
-					"codenumber": "577",
-					"description": "Refueling Possible",
-					"translate": "reabastecimento Possível",
-					"category": "none"
-			},
-			{
-					"codenumber": "578",
-					"description": "Fuel Filler Flap Open",
-					"translate": "Fuel Filler aba aberta",
-					"category": "none"
-			},
-			{
-					"codenumber": "579",
-					"description": "Fuel System Malfunction",
-					"translate": "Sistema de Combustível Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "584",
-					"description": "Transport Mode Active",
-					"translate": "Modo de transporte ativo",
-					"category": "none"
-			},
-			{
-					"codenumber": "585",
-					"description": "High Voltage System Malfunction",
-					"translate": "High Voltage Sistema Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "586",
-					"description": "High Voltage System Malfunction",
-					"translate": "High Voltage Sistema Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "587",
-					"description": "High Voltage Battery Low",
-					"translate": "High Voltage Low Battery",
-					"category": "none"
-			},
-			{
-					"codenumber": "588",
-					"description": "High Voltage Battery, Switch Ignition on to Charge",
-					"translate": "Bateria de alta tensão, interruptor de ignição para carga",
-					"category": "none"
-			},
-			{
-					"codenumber": "589",
-					"description": "High Voltage Battery Charging",
-					"translate": "O carregamento da bateria de alta tensão",
-					"category": "none"
-			},
-			{
-					"codenumber": "590",
-					"description": "Vehicle Ready",
-					"translate": "veículo pronto",
-					"category": "none"
-			},
-			{
-					"codenumber": "591",
-					"description": "High Voltage Battery Charging Aborted",
-					"translate": "Bateria de alta tensão de carregamento Aborted",
-					"category": "none"
-			},
-			{
-					"codenumber": "601",
-					"description": "Braking System Malfunction",
-					"translate": "Sistema de Travagem Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "602",
-					"description": "Braking System Malfunction",
-					"translate": "Sistema de Travagem Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "603",
-					"description": "Braking System Sensor Malfunction",
-					"translate": "Travagem Sistema Sensor Avaria",
-					"category": "none"
-			},
-			{
-					"codenumber": "604",
-					"description": "Braking System Failure",
-					"translate": "Falha Sistema de Travagem",
-					"category": "none"
-			},
-			{
-					"codenumber": "606",
-					"description": "High Voltage Battery Output Restricted",
-					"translate": "Saída de bateria de alta tensão restrito",
-					"category": "none"
-			},
-			{
-					"codenumber": "607",
-					"description": "High Voltage Battery Regeneration Required",
-					"translate": "Alta Tensão da bateria Regeneração Obrigatório",
-					"category": "none"
-			},
-			{
-					"codenumber": "608",
-					"description": "Tyre Pressure, Front Left",
-					"translate": "Pressão dos pneus, da Frente de Esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "609",
-					"description": "Tyre Pressure, Front Right",
-					"translate": "Pressão dos pneus, Frontal Direito",
-					"category": "none"
-			},
-			{
-					"codenumber": "610",
-					"description": "Tyre Pressure, Rear Right",
-					"translate": "Pressão dos pneus, Traseira Direita",
-					"category": "none"
-			},
-			{
-					"codenumber": "611",
-					"description": "Tyre Pressure, Rear Left",
-					"translate": "Pressão dos pneus, Traseira esquerda",
-					"category": "none"
-			},
-			{
-					"codenumber": "612",
-					"description": "MRS Acceleration Sensors",
-					"translate": "Sensores de aceleração MRS",
-					"category": "none"
-			},
-			{
-					"codenumber": "811",
-					"description": "Bonnet Open",
-					"translate": "Bonnet Aberto",
-					"category": "none"
-			},
-			{
-					"codenumber": "999",
-					"description": "Instrument Cluster Fault",
-					"translate": "Instrumento de cluster falha",
-					"category": "none"
-			}
-	]
-}
+[
+	{
+		"codenumber": "1",
+		"description": "Active Cruise Control Disabled, poor Conditions",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, más condições",
+		"category": "none"
+	},
+	{
+		"codenumber": "2",
+		"description": "Active Cruise Control Disabled, poor Signal",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, sinal fraco",
+		"category": "none"
+	},
+	{
+		"codenumber": "3",
+		"description": "Active Cruise Control Failure",
+		"translate": "Ativo Falha Cruise Control",
+		"category": "none"
+	},
+	{
+		"codenumber": "4",
+		"description": "Trailer Parking Light Left",
+		"translate": "Trailer Estacionamento Luz Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "5",
+		"description": "Trailer Parking Light Right",
+		"translate": "Trailer Estacionamento claro direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "6",
+		"description": "Trailer Indicator Left",
+		"translate": "Trailer Indicador de Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "7",
+		"description": "Trailer Indicator Right",
+		"translate": "Trailer Indicador direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "8",
+		"description": "Trailer Brake lights",
+		"translate": "Luzes de freio do reboque",
+		"category": "none"
+	},
+	{
+		"codenumber": "9",
+		"description": "Trailer Fog light",
+		"translate": "Trailer do farol de nevoeiro",
+		"category": "none"
+	},
+	{
+		"codenumber": "10",
+		"description": "ARS Roll Malfunction",
+		"translate": "ARS rolo Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "11",
+		"description": "Steering Malfunction",
+		"translate": "Mau funcionamento da direcção",
+		"category": "none"
+	},
+	{
+		"codenumber": "12",
+		"description": "Dynamic Drive Failed",
+		"translate": "Dynamic Drive Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "13",
+		"description": "Radio Key in Lock",
+		"translate": "Rádio chave na fechadura",
+		"category": "none"
+	},
+	{
+		"codenumber": "14",
+		"description": "Door Open Front Right",
+		"translate": "Abra a porta frontal direita",
+		"category": "none"
+	},
+	{
+		"codenumber": "15",
+		"description": "Door Open Front Left",
+		"translate": "Abra a porta da Frente de Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "16",
+		"description": "Door Open Rear Left",
+		"translate": "Abra a porta traseira esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "17",
+		"description": "Door Open Rear Right",
+		"translate": "Abra a porta traseira direita",
+		"category": "none"
+	},
+	{
+		"codenumber": "18",
+		"description": "Bonnet open",
+		"translate": "Bonnet aberta",
+		"category": "none"
+	},
+	{
+		"codenumber": "19",
+		"description": "Boot open",
+		"translate": "aberto bota",
+		"category": "none"
+	},
+	{
+		"codenumber": "21",
+		"description": "Ignition Problem, Depress Brake to Start",
+		"translate": "Ignition problema, pressione freio para começar",
+		"category": "none"
+	},
+	{
+		"codenumber": "22",
+		"description": "Starter Problem, Engine cannot Restart",
+		"translate": "Arranque Problema, Motor não pode reiniciar",
+		"category": "none"
+	},
+	{
+		"codenumber": "24",
+		"description": "DBC Dynamic Brake Control Brake Assist Failed",
+		"translate": "DBC Dinâmico de Freio Brake Control Assist Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "25",
+		"description": "Preheating, Please Wait",
+		"translate": "O pré-aquecimento, Aguarde",
+		"category": "none"
+	},
+	{
+		"codenumber": "26",
+		"description": "Cruise Control Defective",
+		"translate": "Cruise Control Defective",
+		"category": "none"
+	},
+	{
+		"codenumber": "27",
+		"description": "Engine Oil Level Low",
+		"translate": "Motor de baixo nível de óleo",
+		"category": "none"
+	},
+	{
+		"codenumber": "28",
+		"description": "Engine Oil Level Below Minimum",
+		"translate": "Motor nível de óleo abaixo do mínimo",
+		"category": "none"
+	},
+	{
+		"codenumber": "29",
+		"description": "Engine Problem, Power Reduced",
+		"translate": "Motor Problema, potência reduzida",
+		"category": "none"
+	},
+	{
+		"codenumber": "30",
+		"description": "Engine Problem, Stop Engine",
+		"translate": "Motor problema, pare motor",
+		"category": "none"
+	},
+	{
+		"codenumber": "31",
+		"description": "Engine Problem, Increased Emissions",
+		"translate": "Motor Problema, as emissões aumentaram",
+		"category": "none"
+	},
+	{
+		"codenumber": "32",
+		"description": "Fuel Cap Open",
+		"translate": "Fuel Cap Abrir",
+		"category": "none"
+	},
+	{
+		"codenumber": "33",
+		"description": "Engine Problem, Reduce Engine Load",
+		"translate": "Motor problema, reduza motor de Carga",
+		"category": "none"
+	},
+	{
+		"codenumber": "35",
+		"description": "DSC Failed",
+		"translate": "DSC Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "36",
+		"description": "DSC/DTC Deactivated",
+		"translate": "DSC / DTC Desactivado",
+		"category": "none"
+	},
+	{
+		"codenumber": "38",
+		"description": "Wrong Remote Key",
+		"translate": "Key remoto errado",
+		"category": "none"
+	},
+	{
+		"codenumber": "39",
+		"description": "Engine Overheat, Stop Engine",
+		"translate": "Superaquecimento do motor, desligue o motor",
+		"category": "none"
+	},
+	{
+		"codenumber": "40",
+		"description": "Press Brake to Start",
+		"translate": "Press Brake para começar",
+		"category": "none"
+	},
+	{
+		"codenumber": "41",
+		"description": "Service Due",
+		"translate": "serviço Devido",
+		"category": "none"
+	},
+	{
+		"codenumber": "42",
+		"description": "Brake and Driving Control Failure",
+		"translate": "A falha dos travões e condução de Controle",
+		"category": "none"
+	},
+	{
+		"codenumber": "42",
+		"description": "DSC Control System/Ride Height adjustment",
+		"translate": "DSC Sistema de Controlo de / ajuste de altura de passeio",
+		"category": "none"
+	},
+	{
+		"codenumber": "43",
+		"description": "Dynamic Damper Control Failed",
+		"translate": "Falha Controle de Abafador Dinâmico",
+		"category": "none"
+	},
+	{
+		"codenumber": "45",
+		"description": "Level Control System Failure",
+		"translate": "Falha do sistema de controle de nível",
+		"category": "none"
+	},
+	{
+		"codenumber": "46",
+		"description": "Fasten Seat Belt",
+		"translate": "Aperte seu cinto de segurança",
+		"category": "none"
+	},
+	{
+		"codenumber": "48",
+		"description": "Parking Brake",
+		"translate": "Travão de mão",
+		"category": "none"
+	},
+	{
+		"codenumber": "49",
+		"description": "Particulate Filter Malfunction",
+		"translate": "Avaria filtro de partículas",
+		"category": "none"
+	},
+	{
+		"codenumber": "50",
+		"description": "Tyre Monitoring Failure",
+		"translate": "Falha do pneu Monitoramento",
+		"category": "none"
+	},
+	{
+		"codenumber": "50",
+		"description": "Runflat Indicator Failed",
+		"translate": "Indicador Runflat Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "51",
+		"description": "Parking Brake Overheated",
+		"translate": "Freio de Estacionamento superaquecido",
+		"category": "none"
+	},
+	{
+		"codenumber": "52",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "53",
+		"description": "Automatic Hold Malfunction",
+		"translate": "Avaria de Espera automática",
+		"category": "none"
+	},
+	{
+		"codenumber": "54",
+		"description": "Parking Brake Malfunction",
+		"translate": "Freio de Estacionamento Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "55",
+		"description": "Parking Brake Release",
+		"translate": "Freio de Estacionamento lançamento",
+		"category": "none"
+	},
+	{
+		"codenumber": "55",
+		"description": "Parking Brake Active",
+		"translate": "Estacionamento Active Brake",
+		"category": "none"
+	},
+	{
+		"codenumber": "56",
+		"description": "Parking Brake",
+		"translate": "Travão de mão",
+		"category": "none"
+	},
+	{
+		"codenumber": "57",
+		"description": "Parking Brake",
+		"translate": "Travão de mão",
+		"category": "none"
+	},
+	{
+		"codenumber": "58",
+		"description": "Parking Brake",
+		"translate": "Travão de mão",
+		"category": "none"
+	},
+	{
+		"codenumber": "59",
+		"description": "Active Cruise Control Disabled, Parking Brake",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, freio de estacionamento",
+		"category": "none"
+	},
+	{
+		"codenumber": "60",
+		"description": "Speedometer Failure",
+		"translate": "velocímetro Failure",
+		"category": "none"
+	},
+	{
+		"codenumber": "62",
+		"description": "Vehicle Speed Limit Exceeded",
+		"translate": "Limite de velocidade do veículo excedida",
+		"category": "none"
+	},
+	{
+		"codenumber": "63",
+		"description": "Tyre Failure",
+		"translate": "falha do pneu",
+		"category": "none"
+	},
+	{
+		"codenumber": "63",
+		"description": "Tyre Puncture",
+		"translate": "Furo de pneu",
+		"category": "none"
+	},
+	{
+		"codenumber": "65",
+		"description": "Change Key, Key Battery Low",
+		"translate": "Mudança Key, Key bateria fraca",
+		"category": "none"
+	},
+	{
+		"codenumber": "66",
+		"description": "Remote Control/Key Fault",
+		"translate": "Key falha Remote Control /",
+		"category": "none"
+	},
+	{
+		"codenumber": "67",
+		"description": "Remote Control/Key Battery Discharged",
+		"translate": "Remote Control / Key bateria descarregada",
+		"category": "none"
+	},
+	{
+		"codenumber": "68",
+		"description": "Remote Key Stationary Function Battery Low",
+		"translate": "Remoto Tecla Função Stationary Low Battery",
+		"category": "none"
+	},
+	{
+		"codenumber": "69",
+		"description": "Active Cruise Control Disabled, Speed too Low",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, velocidade muito baixa",
+		"category": "none"
+	},
+	{
+		"codenumber": "70",
+		"description": "Servotronic Failed",
+		"translate": "Servotronic Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "71",
+		"description": "Brake Pads Worn",
+		"translate": "Pastilhas de freio desgastadas",
+		"category": "none"
+	},
+	{
+		"codenumber": "73",
+		"description": "EPS Inoperative",
+		"translate": "EPS Inoperative",
+		"category": "none"
+	},
+	{
+		"codenumber": "74",
+		"description": "Brake Fluid Low",
+		"translate": "Brake Low Fluid",
+		"category": "none"
+	},
+	{
+		"codenumber": "75",
+		"description": "Trailer Electrics Failed",
+		"translate": "Electrics reboque Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "76",
+		"description": "Crash Safety Module",
+		"translate": "Módulo de Segurança Bater",
+		"category": "none"
+	},
+	{
+		"codenumber": "78",
+		"description": "Vehicle Speed Limit Exceeded",
+		"translate": "Limite de velocidade do veículo excedida",
+		"category": "none"
+	},
+	{
+		"codenumber": "79",
+		"description": "Low External Temperature",
+		"translate": "Temperatura baixa External",
+		"category": "none"
+	},
+	{
+		"codenumber": "85",
+		"description": "Active Cruise Control Disabled, Hill Descent",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Hill Descent",
+		"category": "none"
+	},
+	{
+		"codenumber": "87",
+		"description": "Right Rear Light Failure",
+		"translate": "Falha direito Luz traseira",
+		"category": "none"
+	},
+	{
+		"codenumber": "88",
+		"description": "Dipped Beam Left Failure",
+		"translate": "Falha Feixe Esquerda mergulhado",
+		"category": "none"
+	},
+	{
+		"codenumber": "89",
+		"description": "Dipped Beam Right Failure",
+		"translate": "Mergulhado Falha Feixe direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "90",
+		"description": "Trailer Reverse Light",
+		"translate": "Trailer Luz reverso",
+		"category": "none"
+	},
+	{
+		"codenumber": "91",
+		"description": "Fasten Seat Belt",
+		"translate": "Aperte seu cinto de segurança",
+		"category": "none"
+	},
+	{
+		"codenumber": "92",
+		"description": "Front Passenger Seat Belt Pretensioner Fault",
+		"translate": "Banco do passageiro dianteiro Belt pretensioner Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "93",
+		"description": "Driver’s Seat Belt Pretensioner Fault",
+		"translate": "Assento do Motorista Belt pretensioner Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "94",
+		"description": "Rear Left Seat Belt Pretensioner Fault",
+		"translate": "Assento traseiro esquerdo Belt pretensioner Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "95",
+		"description": "Rear Right Seat Belt Pretensioner Fault",
+		"translate": "Assento traseiro direito Belt pretensioner Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "97",
+		"description": "Multiple Restraint System Fault",
+		"translate": "Multiple Sistema de Restrição Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "103",
+		"description": "Gearbox Overheating",
+		"translate": "Gearbox superaquecimento",
+		"category": "none"
+	},
+	{
+		"codenumber": "104",
+		"description": "Gearbox Overheating",
+		"translate": "Gearbox superaquecimento",
+		"category": "none"
+	},
+	{
+		"codenumber": "105",
+		"description": "Gearbox Overheated",
+		"translate": "Gearbox superaquecido",
+		"category": "none"
+	},
+	{
+		"codenumber": "106",
+		"description": "Rear Left Side Airbag Fault",
+		"translate": "Traseira do lado esquerdo Airbag Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "107",
+		"description": "Rear Right Side Airbag Fault",
+		"translate": "Traseira Lado direito Airbag Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "108",
+		"description": "Driver’s Airbag Fault",
+		"translate": "Airbag falha do motorista",
+		"category": "none"
+	},
+	{
+		"codenumber": "109",
+		"description": "Passenger Airbag Fault",
+		"translate": "Airbag do passageiro falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "111",
+		"description": "Number Plate Light Left Failure",
+		"translate": "Matrícula falha Luz Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "113",
+		"description": "Sidelights Switched On",
+		"translate": "Sidelights Switched On",
+		"category": "none"
+	},
+	{
+		"codenumber": "114",
+		"description": "Rear Fog Light Failure",
+		"translate": "Falha traseira nevoeiro",
+		"category": "none"
+	},
+	{
+		"codenumber": "115",
+		"description": "Reverse Light Right Failure",
+		"translate": "A falha inversa claro direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "116",
+		"description": "Indicator Rear Left Failure",
+		"translate": "Falha indicador Traseira esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "117",
+		"description": "Reverse Light Left Failure",
+		"translate": "A falha inversa Luz Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "118",
+		"description": "Rear Light Right Failure",
+		"translate": "Falha Luz traseira direita",
+		"category": "none"
+	},
+	{
+		"codenumber": "119",
+		"description": "Indicator Front Right Failure",
+		"translate": "Falha Indicador Frontal Direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "120",
+		"description": "Dipped Beam Left Failure",
+		"translate": "Falha Feixe Esquerda mergulhado",
+		"category": "none"
+	},
+	{
+		"codenumber": "121",
+		"description": "Dipped Beam Right Failure",
+		"translate": "Mergulhado Falha Feixe direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "122",
+		"description": "Indicator Front Right Failure",
+		"translate": "Falha Indicador Frontal Direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "123",
+		"description": "Rear Light Right Failure",
+		"translate": "Falha Luz traseira direita",
+		"category": "none"
+	},
+	{
+		"codenumber": "124",
+		"description": "Indicator Right Failure",
+		"translate": "Falha Indicador direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "125",
+		"description": "Indicator Rear Right Failure",
+		"translate": "Falha indicador Traseira Direita",
+		"category": "none"
+	},
+	{
+		"codenumber": "126",
+		"description": "Fog Light Right Failure",
+		"translate": "Falha nevoeiro direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "127",
+		"description": "Side Indicator Left Failure",
+		"translate": "Falha lado Indicador de Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "128",
+		"description": "Left High Beam Failure",
+		"translate": "Esquerda High Beam Failure",
+		"category": "none"
+	},
+	{
+		"codenumber": "129",
+		"description": "Rear Fog Light Failure",
+		"translate": "Falha traseira nevoeiro",
+		"category": "none"
+	},
+	{
+		"codenumber": "130",
+		"description": "Right High Beam Failure",
+		"translate": "Direito High Beam Failure",
+		"category": "none"
+	},
+	{
+		"codenumber": "131",
+		"description": "Parking Light Left Front Failure",
+		"translate": "Estacionamento Failure Frente de Esquerda Luz",
+		"category": "none"
+	},
+	{
+		"codenumber": "132",
+		"description": "Front Right Side Light Failure",
+		"translate": "Falha dianteira direita Luz Side",
+		"category": "none"
+	},
+	{
+		"codenumber": "133",
+		"description": "Right Rear Light Failure",
+		"translate": "Falha direito Luz traseira",
+		"category": "none"
+	},
+	{
+		"codenumber": "134",
+		"description": "Right Brake Light Failure",
+		"translate": "Falha direito luz de freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "135",
+		"description": "Centre Brake Light Failure",
+		"translate": "Falha Centro de luz de freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "136",
+		"description": "Left Brake Light Failure",
+		"translate": "Falha esquerda luz de freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "137",
+		"description": "Number Plate Light Right Failure",
+		"translate": "Matrícula falha claro direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "138",
+		"description": "Fog Light Left Failure",
+		"translate": "Falha nevoeiro Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "139",
+		"description": "Front Left Tyre Pressure",
+		"translate": "Pressão Frente de Esquerda Tire",
+		"category": "none"
+	},
+	{
+		"codenumber": "140",
+		"description": "Rear Right Tyre Pressure",
+		"translate": "Pressão traseira direita do pneu",
+		"category": "none"
+	},
+	{
+		"codenumber": "141",
+		"description": "Rear Left Tyre Pressure",
+		"translate": "Pressão traseira esquerda do pneu",
+		"category": "none"
+	},
+	{
+		"codenumber": "142",
+		"description": "Check Tyre Pressures",
+		"translate": "Verifique a pressão dos pneus",
+		"category": "none"
+	},
+	{
+		"codenumber": "143",
+		"description": "Front Right Tyre Pressure",
+		"translate": "Pressão dianteira direita do pneu",
+		"category": "none"
+	},
+	{
+		"codenumber": "144",
+		"description": "Tyre Pressure Monitoring Fault",
+		"translate": "Tire Pressure Monitoring Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "145",
+		"description": "Tyre Pressure Monitoring Deactivated",
+		"translate": "Tire Pressure Monitoring Desactivado",
+		"category": "none"
+	},
+	{
+		"codenumber": "147",
+		"description": "Tyre Puncture Detected",
+		"translate": "Tire Puncture Detectado",
+		"category": "none"
+	},
+	{
+		"codenumber": "148",
+		"description": "Brake Light Control Failed",
+		"translate": "Falha freio de controlo de luz",
+		"category": "none"
+	},
+	{
+		"codenumber": "149",
+		"description": "Tyre Pressure Monitoring Failure",
+		"translate": "Tire falha de Monitorização da Pressão",
+		"category": "none"
+	},
+	{
+		"codenumber": "158",
+		"description": "Active Cruise Control Disabled, Sensor Error",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Erro Sensor",
+		"category": "none"
+	},
+	{
+		"codenumber": "164",
+		"description": "Windscreen Washer Fluid Low",
+		"translate": "Pára-brisas Low Fluid",
+		"category": "none"
+	},
+	{
+		"codenumber": "165",
+		"description": "Low External Temperature",
+		"translate": "Temperatura baixa External",
+		"category": "none"
+	},
+	{
+		"codenumber": "166",
+		"description": "Engine Coolant Level Low",
+		"translate": "Motor nível do fluido refrigerante Baixo",
+		"category": "none"
+	},
+	{
+		"codenumber": "167",
+		"description": "Reset Clock",
+		"translate": "Relógio de reset",
+		"category": "none"
+	},
+	{
+		"codenumber": "168",
+		"description": "Transmission Malfunction",
+		"translate": "transmissão Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "169",
+		"description": "Transmission Position N",
+		"translate": "Posicione a transmissão de N",
+		"category": "none"
+	},
+	{
+		"codenumber": "170",
+		"description": "Transmission Malfunction Reset",
+		"translate": "Transmissão Avaria reset",
+		"category": "none"
+	},
+	{
+		"codenumber": "171",
+		"description": "Transmission Failsafe Active",
+		"translate": "Transmissão à prova de falhas ativas",
+		"category": "none"
+	},
+	{
+		"codenumber": "172",
+		"description": "Transmission Malfunction",
+		"translate": "transmissão Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "173",
+		"description": "Transmission Position D Only",
+		"translate": "Apenas transmissão posição D",
+		"category": "none"
+	},
+	{
+		"codenumber": "174",
+		"description": "Transmission Position P Only",
+		"translate": "Apenas transmissão posição P",
+		"category": "none"
+	},
+	{
+		"codenumber": "175",
+		"description": "Transmission Malfunction, Position P",
+		"translate": "Transmissão Avaria, posição P",
+		"category": "none"
+	},
+	{
+		"codenumber": "176",
+		"description": "Active Cruise Control Disabled, Sensor Error",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Erro Sensor",
+		"category": "none"
+	},
+	{
+		"codenumber": "177",
+		"description": "Active Cruise Control Malfunction",
+		"translate": "Active Control Avaria Cruise",
+		"category": "none"
+	},
+	{
+		"codenumber": "178",
+		"description": "Transmission in Neutral, Engage Parking Brake",
+		"translate": "Transmissão em ponto morto, engate do freio de estacionamento",
+		"category": "none"
+	},
+	{
+		"codenumber": "179",
+		"description": "Transmission Malfunction",
+		"translate": "transmissão Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "180",
+		"description": "Dynamic Damper Control Fault",
+		"translate": "Dinâmica Damper Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "181",
+		"description": "System Check Failed",
+		"translate": "Verificação do Sistema Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "182",
+		"description": "Oil Level Sensor Malfunction",
+		"translate": "Óleo Sensor Nível Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "183",
+		"description": "Windscreen Wiper Malfunction",
+		"translate": "Limpa Pára-brisas Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "184",
+		"description": "Dynamic Traction Control Active",
+		"translate": "Controle Dinâmico de Tração Ativo",
+		"category": "none"
+	},
+	{
+		"codenumber": "185",
+		"description": "Gear Indicator Failed",
+		"translate": "Engrenagem Indicador de Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "186",
+		"description": "ELV Steering Lock Fault. Engine cannot be restarted",
+		"translate": "ELV bloqueio da direcção Fault. O motor não pode ser reiniciado",
+		"category": "none"
+	},
+	{
+		"codenumber": "187",
+		"description": "ELV Steering Lock Active. Move Steering Wheel to Restart",
+		"translate": "ELV bloqueio da direcção activa. Mova Volante para reiniciar",
+		"category": "none"
+	},
+	{
+		"codenumber": "192",
+		"description": "Tyre Pressure Monitoring Deactivated, System Initialising",
+		"translate": "Tire Pressure Monitoring Desactivado, Sistema Inicializando",
+		"category": "none"
+	},
+	{
+		"codenumber": "195",
+		"description": "Park Distance Control Failure",
+		"translate": "Falha Park Distance Control",
+		"category": "none"
+	},
+	{
+		"codenumber": "196",
+		"description": "Indicator Front Right Failure",
+		"translate": "Falha Indicador Frontal Direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "197",
+		"description": "Indicator Front Left Failure",
+		"translate": "Falha indicador Frente de Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "199",
+		"description": "Cruise Control Failed",
+		"translate": "Falha Cruise Control",
+		"category": "none"
+	},
+	{
+		"codenumber": "201",
+		"description": "Automatic Hold Disabled",
+		"translate": "Espera automática Disabled",
+		"category": "none"
+	},
+	{
+		"codenumber": "203",
+		"description": "Transmission Position in N",
+		"translate": "Posição transmissão em N",
+		"category": "none"
+	},
+	{
+		"codenumber": "204",
+		"description": "Dynamic Drive Disabled",
+		"translate": "Dynamic Drive pessoas com mobilidade condicionada",
+		"category": "none"
+	},
+	{
+		"codenumber": "205",
+		"description": "Remote Key not Present",
+		"translate": "Key remoto não Present",
+		"category": "none"
+	},
+	{
+		"codenumber": "206",
+		"description": "Engine Start on next Press",
+		"translate": "Ligue o motor na próxima Imprensa",
+		"category": "none"
+	},
+	{
+		"codenumber": "207",
+		"description": "Central Electronics Failure, Stop Vehicle",
+		"translate": "Central Eletrônica Fracasso, paragem do veículo",
+		"category": "none"
+	},
+	{
+		"codenumber": "208",
+		"description": "Comfort Access Deactivated",
+		"translate": "Comfort Acesso Desactivado",
+		"category": "none"
+	},
+	{
+		"codenumber": "209",
+		"description": "Remote Key in Vehicle, Locking not possible",
+		"translate": "Chave remota no veículo, Locking, não é possível",
+		"category": "none"
+	},
+	{
+		"codenumber": "210",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "211",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "212",
+		"description": "Engine Oil Pressure, Stop Engine",
+		"translate": "Pressão de óleo do motor, desligue o motor",
+		"category": "none"
+	},
+	{
+		"codenumber": "213",
+		"description": "Battery Not Charged",
+		"translate": "Bateria não carregada",
+		"category": "none"
+	},
+	{
+		"codenumber": "215",
+		"description": "Dynamic Stability Control",
+		"translate": "Controlo Dinâmico de Estabilidade",
+		"category": "none"
+	},
+	{
+		"codenumber": "216",
+		"description": "Fuel Pump Fault",
+		"translate": "Bomba de Combustível Fault",
+		"category": "none"
+	},
+	{
+		"codenumber": "217",
+		"description": "No Remote Control",
+		"translate": "Nenhuma Controlo Remoto",
+		"category": "none"
+	},
+	{
+		"codenumber": "220",
+		"description": "Battery Discharge Rate High",
+		"translate": "Descarga da bateria Taxa alta",
+		"category": "none"
+	},
+	{
+		"codenumber": "229",
+		"description": "Battery Charge Low",
+		"translate": "Carga da Bateria Baixa",
+		"category": "none"
+	},
+	{
+		"codenumber": "231",
+		"description": "Light System Failure",
+		"translate": "Falha do sistema de luz",
+		"category": "none"
+	},
+	{
+		"codenumber": "236",
+		"description": "Brake and Stability Systems Failure",
+		"translate": "A falha de freio e Estabilidade de Sistemas",
+		"category": "none"
+	},
+	{
+		"codenumber": "237",
+		"description": "Stability Systems Failure",
+		"translate": "Falha estabilidade Sistemas",
+		"category": "none"
+	},
+	{
+		"codenumber": "238",
+		"description": "Active Cruise Control Disabled, Hill Descent",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, Hill Descent",
+		"category": "none"
+	},
+	{
+		"codenumber": "239",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "240",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "241",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "242",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "243",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "245",
+		"description": "Level Control System Failure",
+		"translate": "Falha do sistema de controle de nível",
+		"category": "none"
+	},
+	{
+		"codenumber": "246",
+		"description": "Active Cruise Control Disabled, Speed too Low",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, velocidade muito baixa",
+		"category": "none"
+	},
+	{
+		"codenumber": "247",
+		"description": "Battery Monitoring Failed",
+		"translate": "Bateria Monitorização Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "248",
+		"description": "Brake Signal Malfunction, Gears May Be Selected Without Brake",
+		"translate": "Brake Signal Avaria, Gears podem ser seleccionados sem freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "250",
+		"description": "Brake Signal Malfunction, Gears May Be Selected Without Brake",
+		"translate": "Brake Signal Avaria, Gears podem ser seleccionados sem freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "251",
+		"description": "Transmission Position P",
+		"translate": "Transmissão posição P",
+		"category": "none"
+	},
+	{
+		"codenumber": "252",
+		"description": "Transmission Malfunction",
+		"translate": "transmissão Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "253",
+		"description": "Parking Brake Failed",
+		"translate": "Freio de Estacionamento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "254",
+		"description": "Transmission Malfunction Emergency Program",
+		"translate": "Programa de Emergência Avaria transmissão",
+		"category": "none"
+	},
+	{
+		"codenumber": "255",
+		"description": "Malfunction R,N,D Only With Engine Running",
+		"translate": "Avaria R, N, D Apenas com o motor ligado",
+		"category": "none"
+	},
+	{
+		"codenumber": "256",
+		"description": "Headlight Leveling System Failure",
+		"translate": "Falha Farol Nivelamento Sistema",
+		"category": "none"
+	},
+	{
+		"codenumber": "257",
+		"description": "Engine Temperature Too High, Drive Moderately",
+		"translate": "Temperatura do motor muito alta, Drive Moderadamente",
+		"category": "none"
+	},
+	{
+		"codenumber": "259",
+		"description": "Window Anti",
+		"translate": "janela Anti",
+		"category": "none"
+	},
+	{
+		"codenumber": "260",
+		"description": "Sunroof Anti",
+		"translate": "teto solar Anti",
+		"category": "none"
+	},
+	{
+		"codenumber": "261",
+		"description": "Window Anti",
+		"translate": "janela Anti",
+		"category": "none"
+	},
+	{
+		"codenumber": "262",
+		"description": "Sunroof Anti",
+		"translate": "teto solar Anti",
+		"category": "none"
+	},
+	{
+		"codenumber": "265",
+		"description": "Check Tyre Pressures, Mismatch",
+		"translate": "Verifique a pressão dos pneus, Incompatibilidade",
+		"category": "none"
+	},
+	{
+		"codenumber": "266",
+		"description": "Rollover Protection Malfunction",
+		"translate": "Rollover Proteção Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "267",
+		"description": "Rear Window Drive",
+		"translate": "Janela Indiscreta unidade",
+		"category": "none"
+	},
+	{
+		"codenumber": "268",
+		"description": "Luggage Compartment Position",
+		"translate": "Bagageira Posição",
+		"category": "none"
+	},
+	{
+		"codenumber": "270",
+		"description": "Convertible Top Not Locked",
+		"translate": "Convertible Top não bloqueado",
+		"category": "none"
+	},
+	{
+		"codenumber": "271",
+		"description": "Convertible Top, Vehicle Speed",
+		"translate": "Convertible Top, velocidade do veículo",
+		"category": "none"
+	},
+	{
+		"codenumber": "272",
+		"description": "Convertible Top Failure",
+		"translate": "Falha Top Convertible",
+		"category": "none"
+	},
+	{
+		"codenumber": "273",
+		"description": "Active Steering Fault",
+		"translate": "Falha Active Steering",
+		"category": "none"
+	},
+	{
+		"codenumber": "275",
+		"description": "Low Fuel",
+		"translate": "baixo combustível",
+		"category": "none"
+	},
+	{
+		"codenumber": "276",
+		"description": "Engine Speed Too High",
+		"translate": "Velocidade do motor muito alto",
+		"category": "none"
+	},
+	{
+		"codenumber": "277",
+		"description": "Active Cruise Control Disabled, Gear Selection",
+		"translate": "Cruise Control Activo pessoas com mobilidade condicionada, engrenagem Seleção",
+		"category": "none"
+	},
+	{
+		"codenumber": "278",
+		"description": "Engine Speed Too Low",
+		"translate": "Velocidade do motor muito baixa",
+		"category": "none"
+	},
+	{
+		"codenumber": "279",
+		"description": "Driver’s Seat Insecure",
+		"translate": "Assento do Motorista Inseguro",
+		"category": "none"
+	},
+	{
+		"codenumber": "280",
+		"description": "Passenger’s Seat Insecure",
+		"translate": "Assento do passageiro Inseguro",
+		"category": "none"
+	},
+	{
+		"codenumber": "281",
+		"description": "Service Due",
+		"translate": "serviço Devido",
+		"category": "none"
+	},
+	{
+		"codenumber": "282",
+		"description": "Instrument Cluster",
+		"translate": "instrumento Cluster",
+		"category": "none"
+	},
+	{
+		"codenumber": "283",
+		"description": "Instrument Cluster",
+		"translate": "instrumento Cluster",
+		"category": "none"
+	},
+	{
+		"codenumber": "284",
+		"description": "Service Overdue",
+		"translate": "serviço Vencidos",
+		"category": "none"
+	},
+	{
+		"codenumber": "285",
+		"description": "Service OK",
+		"translate": "serviço OK",
+		"category": "none"
+	},
+	{
+		"codenumber": "286",
+		"description": "Fuel Low / Range",
+		"translate": "Combustível Baixo / Intervalo",
+		"category": "none"
+	},
+	{
+		"codenumber": "287",
+		"description": "Clutch Overheated",
+		"translate": "Clutch superaquecido",
+		"category": "none"
+	},
+	{
+		"codenumber": "288",
+		"description": "Transmission Malfunction, Failsafe Activated",
+		"translate": "Transmissão Avaria, à prova de falhas Activated",
+		"category": "none"
+	},
+	{
+		"codenumber": "289",
+		"description": "Transmission Malfunction, Failsafe Activated",
+		"translate": "Transmissão Avaria, à prova de falhas Activated",
+		"category": "none"
+	},
+	{
+		"codenumber": "290",
+		"description": "Transmission Malfunction, Journey May Be Continued With Care",
+		"translate": "Transmissão Avaria, Journey pode ser continuado com cuidado",
+		"category": "none"
+	},
+	{
+		"codenumber": "291",
+		"description": "Transmission Malfunction, Failsafe Activated",
+		"translate": "Transmissão Avaria, à prova de falhas Activated",
+		"category": "none"
+	},
+	{
+		"codenumber": "292",
+		"description": "Transmission Malfunction, Re",
+		"translate": "Transmissão Avaria, Re",
+		"category": "none"
+	},
+	{
+		"codenumber": "293",
+		"description": "Press Brake and Select Neutral to Start",
+		"translate": "Press Brake e Select Neutral para começar",
+		"category": "none"
+	},
+	{
+		"codenumber": "295",
+		"description": "Adaptive Cornering Lights Failure",
+		"translate": "Adaptive falha Luz de curva",
+		"category": "none"
+	},
+	{
+		"codenumber": "296",
+		"description": "SOS Deactivated, Check Phone",
+		"translate": "SOS Desactivado, Verificar telefone",
+		"category": "none"
+	},
+	{
+		"codenumber": "297",
+		"description": "BMW Assist Deactivated",
+		"translate": "BMW Assist Desactivado",
+		"category": "none"
+	},
+	{
+		"codenumber": "298",
+		"description": "BMW Assist Not Possible",
+		"translate": "BMW Assist Not Possible",
+		"category": "none"
+	},
+	{
+		"codenumber": "299",
+		"description": "SOS Call System Failure",
+		"translate": "Falha do sistema de chamada SOS",
+		"category": "none"
+	},
+	{
+		"codenumber": "300",
+		"description": "BMW Assist Deactivated, Check SIM.",
+		"translate": "BMW Assist Desactivado, Cheque SIM.",
+		"category": "none"
+	},
+	{
+		"codenumber": "301",
+		"description": "Seatback Monitoring Failed",
+		"translate": "Encosto Monitoramento Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "302",
+		"description": "Park Not Engaged",
+		"translate": "Park não Engaged",
+		"category": "none"
+	},
+	{
+		"codenumber": "303",
+		"description": "Depress Clutch to Start",
+		"translate": "Pressione embreagem para começar",
+		"category": "none"
+	},
+	{
+		"codenumber": "304",
+		"description": "Check Battery Condition",
+		"translate": "Verifique o estado da bateria",
+		"category": "none"
+	},
+	{
+		"codenumber": "305",
+		"description": "Check Battery Terminals",
+		"translate": "Verifique Terminais de bateria",
+		"category": "none"
+	},
+	{
+		"codenumber": "306",
+		"description": "Battery Charge Low",
+		"translate": "Carga da Bateria Baixa",
+		"category": "none"
+	},
+	{
+		"codenumber": "307",
+		"description": "Transmission Malfunction, Multiple Failures",
+		"translate": "Transmissão mau funcionamento, várias falhas",
+		"category": "none"
+	},
+	{
+		"codenumber": "308",
+		"description": "Parking Brake Applied",
+		"translate": "Freio de Estacionamento Aplicada",
+		"category": "none"
+	},
+	{
+		"codenumber": "309",
+		"description": "Fuel Pump Malfunction",
+		"translate": "Bomba de Combustível Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "321",
+		"description": "Active Steering Deactivated",
+		"translate": "Direção Ativa Desactivado",
+		"category": "none"
+	},
+	{
+		"codenumber": "322",
+		"description": "Transmission Teach",
+		"translate": "Teach transmissão",
+		"category": "none"
+	},
+	{
+		"codenumber": "323",
+		"description": "Clutch Teach",
+		"translate": "Clutch Teach",
+		"category": "none"
+	},
+	{
+		"codenumber": "325",
+		"description": "Transmission in Neutral",
+		"translate": "Transmissão em neutro",
+		"category": "none"
+	},
+	{
+		"codenumber": "326",
+		"description": "Transmission in Drive",
+		"translate": "Transmissão na unidade",
+		"category": "none"
+	},
+	{
+		"codenumber": "327",
+		"description": "Tyre Pressure Monitoring Deactivated, System Initialising",
+		"translate": "Tire Pressure Monitoring Desactivado, Sistema Inicializando",
+		"category": "none"
+	},
+	{
+		"codenumber": "328",
+		"description": "Brake Pad Wear Sensor",
+		"translate": "Brake Pad Sensor Wear",
+		"category": "none"
+	},
+	{
+		"codenumber": "330",
+		"description": "Hill Decent Control not Available",
+		"translate": "Colina decente controle não disponível",
+		"category": "none"
+	},
+	{
+		"codenumber": "331",
+		"description": "Hill Decent Control Active",
+		"translate": "Colina decente Controlo Activo",
+		"category": "none"
+	},
+	{
+		"codenumber": "332",
+		"description": "Hill Decent Control Deactivated",
+		"translate": "Digno colina Desactivado Controlo",
+		"category": "none"
+	},
+	{
+		"codenumber": "333",
+		"description": "Hill Decent Control not Possible",
+		"translate": "Colina decente de controle não é possível",
+		"category": "none"
+	},
+	{
+		"codenumber": "334",
+		"description": "Run Flat System Requires Standardisation",
+		"translate": "Run Flat sistema requer Standardization",
+		"category": "none"
+	},
+	{
+		"codenumber": "335",
+		"description": "Ignition Switched On",
+		"translate": "Ignição ligada",
+		"category": "none"
+	},
+	{
+		"codenumber": "336",
+		"description": "Dynamic Stability Control",
+		"translate": "Controlo Dinâmico de Estabilidade",
+		"category": "none"
+	},
+	{
+		"codenumber": "337",
+		"description": "Dynamic Cruise Control Failure",
+		"translate": "A falha dinâmica Cruise Control",
+		"category": "none"
+	},
+	{
+		"codenumber": "338",
+		"description": "Dynamic Cruise Control Deactivated, Parking Brake",
+		"translate": "Dinâmico Cruise Control Desactivado, freio de estacionamento",
+		"category": "none"
+	},
+	{
+		"codenumber": "339",
+		"description": "Dynamic Cruise Control Deactivated, Excessive Braking",
+		"translate": "Dinâmico Cruise Control Desactivado, frenagem excessiva",
+		"category": "none"
+	},
+	{
+		"codenumber": "340",
+		"description": "Dynamic Cruise Control Deactivated, Poor Conditions",
+		"translate": "Dinâmico Cruise Control desativado, más condições",
+		"category": "none"
+	},
+	{
+		"codenumber": "341",
+		"description": "Dynamic Cruise Control Deactivated, Gear Selection",
+		"translate": "Dinâmico Cruise Control Desactivado, engrenagem Seleção",
+		"category": "none"
+	},
+	{
+		"codenumber": "342",
+		"description": "Dynamic Cruise Control Deactivated, Speed Too Low",
+		"translate": "Dinâmico Cruise Control Desactivado, velocidade muito baixa",
+		"category": "none"
+	},
+	{
+		"codenumber": "345",
+		"description": "Brake/Tail Light Failure Right",
+		"translate": "Freio / cauda direita Failure Luz",
+		"category": "none"
+	},
+	{
+		"codenumber": "346",
+		"description": "Brake/Tail Light Failure Left",
+		"translate": "Freio / cauda falha Luz Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "347",
+		"description": "Position R/N/D Not Possible",
+		"translate": "Posição R / N / D Não Possível",
+		"category": "none"
+	},
+	{
+		"codenumber": "348",
+		"description": "Engage Park Before Leaving Vehicle",
+		"translate": "Envolver Parque Antes de sair do veículo",
+		"category": "none"
+	},
+	{
+		"codenumber": "349",
+		"description": "Engage Park Before Switching Ignition Off",
+		"translate": "Envolver Parque Antes de ligar a ignição desligada",
+		"category": "none"
+	},
+	{
+		"codenumber": "350",
+		"description": "4X4 System Failure",
+		"translate": "Falha 4X4 Sistema",
+		"category": "none"
+	},
+	{
+		"codenumber": "351",
+		"description": "4X4 and DSC Failure",
+		"translate": "4X4 e DSC Failure",
+		"category": "none"
+	},
+	{
+		"codenumber": "352",
+		"description": "Brakes Too Hot",
+		"translate": "Freios Too Hot",
+		"category": "none"
+	},
+	{
+		"codenumber": "353",
+		"description": "Brakes Overheated",
+		"translate": "freios superaquecido",
+		"category": "none"
+	},
+	{
+		"codenumber": "354",
+		"description": "Start Assist Inactive",
+		"translate": "Start Assist Inativo",
+		"category": "none"
+	},
+	{
+		"codenumber": "356",
+		"description": "Night Vision Failure",
+		"translate": "Night Vision Failure",
+		"category": "none"
+	},
+	{
+		"codenumber": "363",
+		"description": "Transmission Overload",
+		"translate": "transmissão Overload",
+		"category": "none"
+	},
+	{
+		"codenumber": "364",
+		"description": "RPA Initialisation",
+		"translate": "RPA Inicialização",
+		"category": "none"
+	},
+	{
+		"codenumber": "365",
+		"description": "Transmission Failsafe",
+		"translate": "transmissão à prova de falhas",
+		"category": "none"
+	},
+	{
+		"codenumber": "366",
+		"description": "Transmission Fault, Failsafe",
+		"translate": "Transmissão de falha, à prova de falhas",
+		"category": "none"
+	},
+	{
+		"codenumber": "367",
+		"description": "Engine Temperature Too High",
+		"translate": "Motor temperatura muito alta",
+		"category": "none"
+	},
+	{
+		"codenumber": "368",
+		"description": "Transmission Failsafe Active",
+		"translate": "Transmissão à prova de falhas ativas",
+		"category": "none"
+	},
+	{
+		"codenumber": "369",
+		"description": "4X4, DSC and ABS Failure",
+		"translate": "4X4, DSC e Insuficiência ABS",
+		"category": "none"
+	},
+	{
+		"codenumber": "370",
+		"description": "4X4, DSC, ABS and EBV Failure",
+		"translate": "4X4, DSC, ABS e EBV Failure",
+		"category": "none"
+	},
+	{
+		"codenumber": "371",
+		"description": "Number Plate Light Failure",
+		"translate": "Matrícula falha Luz",
+		"category": "none"
+	},
+	{
+		"codenumber": "372",
+		"description": "Brake Force Display Light Failure Left",
+		"translate": "Luz de travagem de falha Luz Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "373",
+		"description": "Brake Force Display Light Failure Right",
+		"translate": "Luz de travagem de Direito falha Luz",
+		"category": "none"
+	},
+	{
+		"codenumber": "374",
+		"description": "Main Beam Assist Defective",
+		"translate": "Principal Feixe Assist Defective",
+		"category": "none"
+	},
+	{
+		"codenumber": "375",
+		"description": "Main Beam Assist Not Active",
+		"translate": "Principal Feixe Assist Não Ativo",
+		"category": "none"
+	},
+	{
+		"codenumber": "376",
+		"description": "Main Beam Assist Not Active",
+		"translate": "Principal Feixe Assist Não Ativo",
+		"category": "none"
+	},
+	{
+		"codenumber": "377",
+		"description": "Main Beam Assist Sensativity",
+		"translate": "Principal Feixe Assist Sensativity",
+		"category": "none"
+	},
+	{
+		"codenumber": "378",
+		"description": "Sidelight/Daytime Lights Defective",
+		"translate": "Sidelight / Daytime luzes com defeito",
+		"category": "none"
+	},
+	{
+		"codenumber": "379",
+		"description": "Sidelight/Daytime Lights Defective",
+		"translate": "Sidelight / Daytime luzes com defeito",
+		"category": "none"
+	},
+	{
+		"codenumber": "380",
+		"description": "Turn Signal Lights Defective",
+		"translate": "Turno sinal luzes com defeito",
+		"category": "none"
+	},
+	{
+		"codenumber": "381",
+		"description": "Turn Signal Lights Defective",
+		"translate": "Turno sinal luzes com defeito",
+		"category": "none"
+	},
+	{
+		"codenumber": "382",
+		"description": "DSC Restricted, Brake Pressure Sensor",
+		"translate": "DSC Restrita, Brake Pressure Sensor",
+		"category": "none"
+	},
+	{
+		"codenumber": "384",
+		"description": "DSC Puncture Detected",
+		"translate": "DSC punção Detectado",
+		"category": "none"
+	},
+	{
+		"codenumber": "385",
+		"description": "Steering Assistance Failed",
+		"translate": "Assistência de direção Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "389",
+		"description": "Fasten Driver’s Seat Belt",
+		"translate": "Assento do Motorista aperte o cinto",
+		"category": "none"
+	},
+	{
+		"codenumber": "390",
+		"description": "Fasten Passenger’s Seat Belt",
+		"translate": "Banco do passageiro aperte o cinto",
+		"category": "none"
+	},
+	{
+		"codenumber": "391",
+		"description": "Multiple Restraint System",
+		"translate": "Sistema de Restrição múltipla",
+		"category": "none"
+	},
+	{
+		"codenumber": "392",
+		"description": "Fasten Seat Belt",
+		"translate": "Aperte seu cinto de segurança",
+		"category": "none"
+	},
+	{
+		"codenumber": "393",
+		"description": "Gear Selector Position",
+		"translate": "Engrenagem Selector de Posição",
+		"category": "none"
+	},
+	{
+		"codenumber": "394",
+		"description": "Gear Selector Lever",
+		"translate": "Engrenagem Selector Lever",
+		"category": "none"
+	},
+	{
+		"codenumber": "395",
+		"description": "Parking Brake Malfunction",
+		"translate": "Freio de Estacionamento Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "398",
+		"description": "Engine Bay Cover Open",
+		"translate": "Motor Bay Tampa aberta",
+		"category": "none"
+	},
+	{
+		"codenumber": "399",
+		"description": "SMG State Undetermined",
+		"translate": "SMG estado indeterminado",
+		"category": "none"
+	},
+	{
+		"codenumber": "400",
+		"description": "Engine Oil Level High",
+		"translate": "Óleo do motor de Alto Nível",
+		"category": "none"
+	},
+	{
+		"codenumber": "401",
+		"description": "Roof Mechanism Failure",
+		"translate": "Telhado Failure Mecanismo",
+		"category": "none"
+	},
+	{
+		"codenumber": "402",
+		"description": "Apply Foot Brake",
+		"translate": "Aplicar pé do freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "403",
+		"description": "Trailer Rear Light/Numberplate Light",
+		"translate": "Trailer Luz traseira / numberplate Luz",
+		"category": "none"
+	},
+	{
+		"codenumber": "404",
+		"description": "Trailer Left Indicator/Brake Light",
+		"translate": "Indicador de Esquerda Trailer / luz de freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "405",
+		"description": "Trailer Right Indicator/Brake Light",
+		"translate": "Indicador direito Trailer / luz de freio",
+		"category": "none"
+	},
+	{
+		"codenumber": "406",
+		"description": "Trailer Electric Brake Failed",
+		"translate": "Trailer elétrica do freio falhou",
+		"category": "none"
+	},
+	{
+		"codenumber": "410",
+		"description": "Parking Brake Malfunction",
+		"translate": "Freio de Estacionamento Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "413",
+		"description": "Steering Column Unlocked",
+		"translate": "Coluna de direção destravado",
+		"category": "none"
+	},
+	{
+		"codenumber": "415",
+		"description": "Battery Discharge Rate High",
+		"translate": "Descarga da bateria Taxa alta",
+		"category": "none"
+	},
+	{
+		"codenumber": "416",
+		"description": "Luggage Compartment Partition",
+		"translate": "Bagageira Partition",
+		"category": "none"
+	},
+	{
+		"codenumber": "419",
+		"description": "Drive Malfunction",
+		"translate": "unidade Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "420",
+		"description": "Transmission Malfunction",
+		"translate": "transmissão Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "422",
+		"description": "Luggage Compartment Lower Lid",
+		"translate": "Bagagem compartimento inferior Lid",
+		"category": "none"
+	},
+	{
+		"codenumber": "423",
+		"description": "Trailer Coupling Lock",
+		"translate": "Trailer de acoplamento de bloqueio",
+		"category": "none"
+	},
+	{
+		"codenumber": "424",
+		"description": "Reversing Camera Soiled",
+		"translate": "Invertendo Camera Soiled",
+		"category": "none"
+	},
+	{
+		"codenumber": "425",
+		"description": "Reversing Camera Failure",
+		"translate": "Invertendo Camera Failure",
+		"category": "none"
+	},
+	{
+		"codenumber": "427",
+		"description": "Engine Oil Pressure Low",
+		"translate": "Engine Oil Low Pressure",
+		"category": "none"
+	},
+	{
+		"codenumber": "428",
+		"description": "Side Camera Defective",
+		"translate": "Side câmera com defeito",
+		"category": "none"
+	},
+	{
+		"codenumber": "430",
+		"description": "Transport Mode Active",
+		"translate": "Modo de transporte ativo",
+		"category": "none"
+	},
+	{
+		"codenumber": "431",
+		"description": "Brake Loading Too High",
+		"translate": "Brake Carregando Too High",
+		"category": "none"
+	},
+	{
+		"codenumber": "432",
+		"description": "Roof Drive Overload",
+		"translate": "Telhado Unidade Overload",
+		"category": "none"
+	},
+	{
+		"codenumber": "434",
+		"description": "Seat Calibration Required",
+		"translate": "Assento de calibração necessário",
+		"category": "none"
+	},
+	{
+		"codenumber": "435",
+		"description": "Lane Departure Warning Fault",
+		"translate": "Pista de partida de aviso de falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "436",
+		"description": "Seat Position Detection Fault",
+		"translate": "Assento Posição Detecção de Falhas",
+		"category": "none"
+	},
+	{
+		"codenumber": "437",
+		"description": "Parking Lights On",
+		"translate": "Luzes de estacionamento no",
+		"category": "none"
+	},
+	{
+		"codenumber": "439",
+		"description": "Parking Brake Overload",
+		"translate": "Freio de Estacionamento Overload",
+		"category": "none"
+	},
+	{
+		"codenumber": "441",
+		"description": "Cruise Control Deactivated",
+		"translate": "Cruise Control Desactivado",
+		"category": "none"
+	},
+	{
+		"codenumber": "442",
+		"description": "Vehicle may Roll Away",
+		"translate": "Veículo pode rolar",
+		"category": "none"
+	},
+	{
+		"codenumber": "443",
+		"description": "Vehicle Rolling Away",
+		"translate": "Veículo que rola afastado",
+		"category": "none"
+	},
+	{
+		"codenumber": "445",
+		"description": "Vehicle Not Level",
+		"translate": "Veículo desnivelada",
+		"category": "none"
+	},
+	{
+		"codenumber": "446",
+		"description": "Launch Control",
+		"translate": "Controle de lançamento",
+		"category": "none"
+	},
+	{
+		"codenumber": "448",
+		"description": "Fuel Filter",
+		"translate": "Filtro de combustível",
+		"category": "none"
+	},
+	{
+		"codenumber": "449",
+		"description": "Trailer Coupling Electrics Failed",
+		"translate": "Trailer Coupling Electrics Falha",
+		"category": "none"
+	},
+	{
+		"codenumber": "450",
+		"description": "Automatic Start Deactivated",
+		"translate": "Automática Iniciar Desactivado",
+		"category": "none"
+	},
+	{
+		"codenumber": "452",
+		"description": "Release Autohold",
+		"translate": "Lançamento AutoHOLD",
+		"category": "none"
+	},
+	{
+		"codenumber": "453",
+		"description": "Cruise Control Short Range Sensors Disabled",
+		"translate": "Cruise Control Short Range Sensores pessoas com mobilidade condicionada",
+		"category": "none"
+	},
+	{
+		"codenumber": "454",
+		"description": "Cruise Control Short Range Sensors Soiled",
+		"translate": "Cruise Control Short Range Sensores Soiled",
+		"category": "none"
+	},
+	{
+		"codenumber": "465",
+		"description": "Parking Brake Failure",
+		"translate": "Estacionamento falha nos freios",
+		"category": "none"
+	},
+	{
+		"codenumber": "467",
+		"description": "Gear Selector Malfunction/Locking",
+		"translate": "Engrenagem Selector Avaria / Locking",
+		"category": "none"
+	},
+	{
+		"codenumber": "469",
+		"description": "Cruise Control Deactivated, Sensors Soiled",
+		"translate": "Cruise Control Desactivado, Sensores Soiled",
+		"category": "none"
+	},
+	{
+		"codenumber": "474",
+		"description": "Driving Performance Control Failed",
+		"translate": "Falha de condução Controle de Desempenho",
+		"category": "none"
+	},
+	{
+		"codenumber": "478",
+		"description": "Cruise Control Deactivated, Radio Astronomy Intervention",
+		"translate": "Cruise Control Desactivado, Radio Astronomy Intervenção",
+		"category": "none"
+	},
+	{
+		"codenumber": "480",
+		"description": "Parking Brake Malfunction",
+		"translate": "Freio de Estacionamento Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "481",
+		"description": "Parking Brake Malfunction",
+		"translate": "Freio de Estacionamento Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "482",
+		"description": "Parking Brake Failure",
+		"translate": "Estacionamento falha nos freios",
+		"category": "none"
+	},
+	{
+		"codenumber": "483",
+		"description": "Active Cruise Control Temporarily Disabled",
+		"translate": "Controle Ativo de Cruzeiro desativada temporariamente",
+		"category": "none"
+	},
+	{
+		"codenumber": "490",
+		"description": "Parking Assist Failure, Parking Assist Aborted",
+		"translate": "Estacionamento Assist Fracasso, Estacionamento Assist Aborted",
+		"category": "none"
+	},
+	{
+		"codenumber": "492",
+		"description": "AdBlue Reserve Low",
+		"translate": "AdBlue Reserve Baixo",
+		"category": "none"
+	},
+	{
+		"codenumber": "493",
+		"description": "AdBlue Reserve Critical",
+		"translate": "AdBlue Reserve Critical",
+		"category": "none"
+	},
+	{
+		"codenumber": "493",
+		"description": "AdBlue Reserve Empty",
+		"translate": "AdBlue Reserve vazio",
+		"category": "none"
+	},
+	{
+		"codenumber": "506",
+		"description": "AdBlue Fluid Incorrect",
+		"translate": "AdBlue Fluid incorreto",
+		"category": "none"
+	},
+	{
+		"codenumber": "516",
+		"description": "Roof Operation Cancelled",
+		"translate": "Telhado operação cancelada",
+		"category": "none"
+	},
+	{
+		"codenumber": "518",
+		"description": "Convertible Top Not Locked",
+		"translate": "Convertible Top não bloqueado",
+		"category": "none"
+	},
+	{
+		"codenumber": "519",
+		"description": "Roof Operation Not Possible",
+		"translate": "Telhado Operação impossível",
+		"category": "none"
+	},
+	{
+		"codenumber": "538",
+		"description": "Gearbox Malfunction",
+		"translate": "Gearbox Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "539",
+		"description": "Gearbox Malfunction 5",
+		"translate": "Gearbox Avaria 5",
+		"category": "none"
+	},
+	{
+		"codenumber": "540",
+		"description": "Gearbox Malfunction P",
+		"translate": "Caixa de velocidades de mau funcionamento P",
+		"category": "none"
+	},
+	{
+		"codenumber": "541",
+		"description": "Gearbox Malfunction Manually Release Parking Lock",
+		"translate": "Gearbox Avaria manualmente desbloqueio Estacionamento",
+		"category": "none"
+	},
+	{
+		"codenumber": "557",
+		"description": "Rolling Possible, Secure Vehicle",
+		"translate": "Rolando Possível, Veículo seguro",
+		"category": "none"
+	},
+	{
+		"codenumber": "558",
+		"description": "Roof Position Detection",
+		"translate": "Telhado detecção de posição",
+		"category": "none"
+	},
+	{
+		"codenumber": "559",
+		"description": "Roof Drive Overheated",
+		"translate": "Telhado Unidade superaquecido",
+		"category": "none"
+	},
+	{
+		"codenumber": "560",
+		"description": "Roof Operation Not Possible",
+		"translate": "Telhado Operação impossível",
+		"category": "none"
+	},
+	{
+		"codenumber": "561",
+		"description": "Roof Emergency Operation",
+		"translate": "Operação de Emergência Telhado",
+		"category": "none"
+	},
+	{
+		"codenumber": "562",
+		"description": "Roof Unlocked",
+		"translate": "telhado desbloqueado",
+		"category": "none"
+	},
+	{
+		"codenumber": "565",
+		"description": "Gearbox Position P only Available when Stationary",
+		"translate": "Gearbox Posição P só está disponível quando estacionária",
+		"category": "none"
+	},
+	{
+		"codenumber": "569",
+		"description": "Drive Malfunction, Stop",
+		"translate": "Unidade avaria, deixe de",
+		"category": "none"
+	},
+	{
+		"codenumber": "570",
+		"description": "Drive Range Low",
+		"translate": "Unidade Faixa Baixa",
+		"category": "none"
+	},
+	{
+		"codenumber": "571",
+		"description": "Drive, Only Forward Crawling Speed is Possible",
+		"translate": "Drive, só para a frente Crawling velocidade é Possível",
+		"category": "none"
+	},
+	{
+		"codenumber": "572",
+		"description": "Drive, Only Forward and Reverse Crawling Speed is Possible",
+		"translate": "Drive, só para a frente e Crawling reverso velocidade é Possível",
+		"category": "none"
+	},
+	{
+		"codenumber": "573",
+		"description": "Gearbox Malfunction",
+		"translate": "Gearbox Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "574",
+		"description": "No Braking Energy Reclamation",
+		"translate": "Sem energia de travagem Reclamation",
+		"category": "none"
+	},
+	{
+		"codenumber": "575",
+		"description": "Refueling",
+		"translate": "reabastecimento",
+		"category": "none"
+	},
+	{
+		"codenumber": "576",
+		"description": "Refueling Only Possible When Standing",
+		"translate": "Reabastecimento só é possível quando Standing",
+		"category": "none"
+	},
+	{
+		"codenumber": "577",
+		"description": "Refueling Possible",
+		"translate": "reabastecimento Possível",
+		"category": "none"
+	},
+	{
+		"codenumber": "578",
+		"description": "Fuel Filler Flap Open",
+		"translate": "Fuel Filler aba aberta",
+		"category": "none"
+	},
+	{
+		"codenumber": "579",
+		"description": "Fuel System Malfunction",
+		"translate": "Sistema de Combustível Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "584",
+		"description": "Transport Mode Active",
+		"translate": "Modo de transporte ativo",
+		"category": "none"
+	},
+	{
+		"codenumber": "585",
+		"description": "High Voltage System Malfunction",
+		"translate": "High Voltage Sistema Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "586",
+		"description": "High Voltage System Malfunction",
+		"translate": "High Voltage Sistema Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "587",
+		"description": "High Voltage Battery Low",
+		"translate": "High Voltage Low Battery",
+		"category": "none"
+	},
+	{
+		"codenumber": "588",
+		"description": "High Voltage Battery, Switch Ignition on to Charge",
+		"translate": "Bateria de alta tensão, interruptor de ignição para carga",
+		"category": "none"
+	},
+	{
+		"codenumber": "589",
+		"description": "High Voltage Battery Charging",
+		"translate": "O carregamento da bateria de alta tensão",
+		"category": "none"
+	},
+	{
+		"codenumber": "590",
+		"description": "Vehicle Ready",
+		"translate": "veículo pronto",
+		"category": "none"
+	},
+	{
+		"codenumber": "591",
+		"description": "High Voltage Battery Charging Aborted",
+		"translate": "Bateria de alta tensão de carregamento Aborted",
+		"category": "none"
+	},
+	{
+		"codenumber": "601",
+		"description": "Braking System Malfunction",
+		"translate": "Sistema de Travagem Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "602",
+		"description": "Braking System Malfunction",
+		"translate": "Sistema de Travagem Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "603",
+		"description": "Braking System Sensor Malfunction",
+		"translate": "Travagem Sistema Sensor Avaria",
+		"category": "none"
+	},
+	{
+		"codenumber": "604",
+		"description": "Braking System Failure",
+		"translate": "Falha Sistema de Travagem",
+		"category": "none"
+	},
+	{
+		"codenumber": "606",
+		"description": "High Voltage Battery Output Restricted",
+		"translate": "Saída de bateria de alta tensão restrito",
+		"category": "none"
+	},
+	{
+		"codenumber": "607",
+		"description": "High Voltage Battery Regeneration Required",
+		"translate": "Alta Tensão da bateria Regeneração Obrigatório",
+		"category": "none"
+	},
+	{
+		"codenumber": "608",
+		"description": "Tyre Pressure, Front Left",
+		"translate": "Pressão dos pneus, da Frente de Esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "609",
+		"description": "Tyre Pressure, Front Right",
+		"translate": "Pressão dos pneus, Frontal Direito",
+		"category": "none"
+	},
+	{
+		"codenumber": "610",
+		"description": "Tyre Pressure, Rear Right",
+		"translate": "Pressão dos pneus, Traseira Direita",
+		"category": "none"
+	},
+	{
+		"codenumber": "611",
+		"description": "Tyre Pressure, Rear Left",
+		"translate": "Pressão dos pneus, Traseira esquerda",
+		"category": "none"
+	},
+	{
+		"codenumber": "612",
+		"description": "MRS Acceleration Sensors",
+		"translate": "Sensores de aceleração MRS",
+		"category": "none"
+	},
+	{
+		"codenumber": "811",
+		"description": "Bonnet Open",
+		"translate": "Bonnet Aberto",
+		"category": "none"
+	},
+	{
+		"codenumber": "999",
+		"description": "Instrument Cluster Fault",
+		"translate": "Instrumento de cluster falha",
+		"category": "none"
+	}
+]

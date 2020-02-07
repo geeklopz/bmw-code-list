@@ -24,11 +24,11 @@ ul {
 	height: 100vh;
 
 	display: grid;
-	grid-template-columns: 1fr 3fr;
-	grid-template-rows: 3fr 0.5fr;
+	grid-template-rows: 1fr 3fr .5fr;
 	grid-template-areas:
-		"posts main"
-		"posts footer";
+		"header"
+		"main"
+		"footer";
 }
 
 section {
@@ -40,48 +40,81 @@ section {
 		@extend %titles;
 		color: #009ADA;
 	}
+
+	@media (min-width: 320px) and (max-width: 768px) {
+		padding: 1em;
+	}
 }
 
 .card {
 	@extend %text;
 
 	display: flex;
-	align-content: space-between;
-	align-items: center;
+	flex-direction: row;
+	justify-content: space-between;
+	align-content: center;
 
 	padding: 2em;
-	margin-right: 0.5em;
 	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.09);
 
 	h3 {
 		font-size: 2rem;
+		margin-top: 15px;
 		margin-right: 20px;
 	}
+
+	.code-number, .description, .description-pt {
+		& span {
+			font-weight: 700;
+			color: #95afc0;
+		}
+	}
+
+	@media (min-width: 320px) and (max-width: 768px) {
+		padding: 1.3em;
+
+		.code-number {
+			min-width: 50px;
+		}
+	}
+
 }
 
-aside {
-	grid-area: posts;
+header {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	grid-area: header;
 	background: #009ADA;
 	padding: 2em;
 	color: #fff;
 
 	h3 {
 		@extend %titles;
+		font-size: 2rem;
+		margin-bottom: 0;
 	}
 
-	li {
+	p {
 		@extend %text;
+	}
 
-		a {
-			text-decoration: none;
-			padding: 1rem;
-			margin: 1rem 0;
-			background: #fff;
-			border-radius: 5px;
-			box-shadow: 10px 10px 20px rgba(255, 255, 255, 0.05);
-			color: #999;
-			font-weight: 500;
-			display: block;
+	input[type="text"] {
+		display: block;
+		margin: 10px;
+		padding: 1.5rem;
+		width: 50%;
+		font-family: inherit;
+		font-size: 1.3rem;
+		font-weight: inherit;
+		line-height: 1.4;
+		border: none;
+		border-radius: 0.4rem;
+		transition: box-shadow 300ms;
+
+		@media (min-width: 320px) and (max-width: 768px) {
+			width: 100%;
 		}
 	}
 }

@@ -9,6 +9,11 @@ section h3, header h1 {
   font-weight: 700;
 }
 
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 body {
   margin: 0;
   height: 100vh;
@@ -31,6 +36,7 @@ ul {
 
 section {
   padding: 2em;
+  max-width: 100vw;
 }
 
 section h3 {
@@ -67,6 +73,10 @@ section h3 {
   margin-right: 20px;
 }
 
+.card .code-number, .card .description, .card .description-pt {
+  margin: 0 5px;
+}
+
 .card .code-number span, .card .description span, .card .description-pt span {
   font-weight: 700;
   color: #95afc0;
@@ -74,10 +84,10 @@ section h3 {
 
 @media (min-width: 320px) and (max-width: 768px) {
   .card {
-    padding: 1.3em;
+    padding: 1em;
   }
   .card .code-number {
-    min-width: 80px;
+    min-width: 45px;
   }
 }
 
@@ -108,7 +118,11 @@ header h1 {
   margin-bottom: 0;
 }
 
-header input[type="text"] {
+header p {
+  margin: 0;
+}
+
+header input[type="number"] {
   display: block;
   margin: 10px;
   padding: 1.5rem;
@@ -126,8 +140,14 @@ header input[type="text"] {
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
-  header input[type="text"] {
-    width: 100%;
+  header input[type="number"] {
+    width: 97%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+  header {
+    padding: 1.3em;
   }
 }
 

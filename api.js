@@ -1,6 +1,8 @@
 const search = document.getElementById('search');
 const matchList = document.getElementById('card-container');
 
+matchList.innerHTML = `<h3 style="text-align:center; color:#ccc">Please, insert number of code error!</h3>`;
+
 // json
 const searchCodes = async searchText => {
 	const res = await fetch('../codes.json');
@@ -17,10 +19,8 @@ const searchCodes = async searchText => {
 
 	if(searchText.length === 0) {
 		matches = [];
-		matchList.innerHTML = '';
+		matchList.innerHTML = `<h3 style="text-align:center; color:#ccc">Please, insert number of code error!</h3>`;
 	}
-
-	console.log(matches);
 
 	outputHtml(matches);
 };

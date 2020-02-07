@@ -3,9 +3,10 @@ section, .card, header p, footer {
   line-height: 1.7em;
 }
 
-section h1, header h3 {
+section h3, header h1 {
   margin-top: 0;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 body {
@@ -32,7 +33,7 @@ section {
   padding: 2em;
 }
 
-section h1 {
+section h3 {
   color: #009ADA;
 }
 
@@ -76,7 +77,7 @@ section h1 {
     padding: 1.3em;
   }
   .card .code-number {
-    min-width: 50px;
+    min-width: 80px;
   }
 }
 
@@ -102,7 +103,7 @@ header {
   color: #fff;
 }
 
-header h3 {
+header h1 {
   font-size: 2rem;
   margin-bottom: 0;
 }
@@ -136,5 +137,9 @@ footer {
   -ms-grid-column: 1;
   grid-area: footer;
   padding: 1em;
+}
+
+footer p {
+  margin: 0;
 }
 /*# sourceMappingURL=style.css.map */

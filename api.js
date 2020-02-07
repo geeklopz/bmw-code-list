@@ -10,7 +10,8 @@ const searchCodes = async searchText => {
 
 	//matches
 	let matches = codes.filter(code => {
-		const regex = new RegExp(`^${searchText}$`);
+		let clear = searchText.replace(/^(0+)(\d)/g,"$2");
+		const regex = new RegExp(`^${clear}$`);
 		return code.codenumber.match(regex);
 	});
 

@@ -1,7 +1,7 @@
 const search = document.getElementById('search');
 const matchList = document.getElementById('card-container');
 
-matchList.innerHTML = `<h3 style="text-align:center; color:#ccc">Please, insert number of code error!</h3>`;
+matchList.innerHTML = `<h3 style="text-align:center;color:#ccc;">Please enter the error code number!</h3>`;
 
 // json
 const searchCodes = async searchText => {
@@ -19,7 +19,7 @@ const searchCodes = async searchText => {
 
 	if(searchText.length === 0) {
 		matches = [];
-		matchList.innerHTML = `<h3 style="text-align:center; color:#ccc">Please, insert number of code error!</h3>`;
+		matchList.innerHTML = `<h3 style="text-align:center;color:#ccc;">Please enter the error code number!</h3>`;
 	}
 
 	outputHtml(matches);
